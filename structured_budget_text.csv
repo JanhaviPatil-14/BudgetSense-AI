@@ -1,0 +1,2619 @@
+sentence,amount_raw,amount_number,amount_unit,percentage,ministry,schemes,top_keywords,entities
+"GOVERNMENT OF INDIA
+BUDGET 2025-2026
+SPEECH
+OF
+NIRMALA SITHARAMAN
+MINISTER OF FINANCE
+February 1,  2025
+ 
+CONTENTS  
+ 
+PART – A 
+ Page No.",,,,,,February; Page,2025; minister; finance; budget,2025-2026(DATE); February 1(DATE); 2025(DATE)
+"Introduction  1 
+Budget Theme  1 
+Agriculture as the 1st engine  3 
+MSMEs as the 2nd engine  6 
+Investment as the 3rd engine  8 
+A. Investing in People  8 
+B. Investing in  the Economy  10 
+C. Investing in Innovation  14 
+Exports as the 4th engine  15 
+Reforms as the Fuel  16 
+Fiscal Policy  18 
+ 
+ 
+PART –",,,,,Agriculture,Introduction; Budget Theme; Agriculture; Investment; Investing; People; Economy; Innovation; Exports; Reforms; Fuel; Fiscal Policy,engine; investing; 1st engine; exports 4th,"1(CARDINAL); 1(CARDINAL); 1st(ORDINAL); 3(CARDINAL); 2nd(ORDINAL); 6(CARDINAL); 3rd(ORDINAL); 8 
+A. Investing(PERCENT); 14(CARDINAL); 4th(ORDINAL); 15(CARDINAL); 18(CARDINAL)"
+"B 
+Indirect taxes  20 
+Direct Taxes   23 
+ 
+Annexure to Part -A 29 
+Annexure to Part -B 31 
+ 
+  
+ 
+ 
+Budget 202 5-2026 
+ 
+Speech of  
+Nirmala Sitharaman  
+Minister of Finance  
+February 1 , 202 5 
+Hon’ble Speaker,  
+ I present the Budget for 2025 -26.",,,,,"Finance  
+February","Indirect; Direct Taxes; Annexure; Part; Budget; Speech; Nirmala Sitharaman  
+Minister; Finance  
+February; Hon; Speaker",taxes; annexure; budget; indirect taxes,20(CARDINAL); Direct Taxes(ORG); 23(CARDINAL); 29(CARDINAL); 31(CARDINAL); Budget(ORG); Nirmala Sitharaman(PERSON); February 1(DATE); 202 5(CARDINAL); 2025(DATE)
+"Introduction  
+1.",,,,,,Introduction,,1(CARDINAL)
+"This Budget continues our Government ’s efforts to:  
+a) accelerate growth,  
+b) secure inclusive development,  
+c) invigorate private sector investments,  
+d) uplift household sentiments, and 
+e) enhance spending power of India’s rising middle class.",,,,,,This Budget; Government; India,inclusive; power; rising; efforts,Budget(ORG); Government(ORG); India(GPE)
+"Together, we embark on a journey to unlock our nation’s tremendous 
+potential for greater prosperity and global positioning under the leadership of 
+Hon’ble Prime Minister Shri Narendra Modi.",,,,,,Together; Hon; Prime Minister Shri Narendra; Modi,greater; modi; potential; prime,Shri Narendra Modi(PERSON)
+"As we complete the first quarter of the 21st century, continuing 
+geopolitical headwinds suggest lower  global economic growth over the 
+medium term.",,,,,,,quarter; economic; growth; term,the first quarter of the 21st century(DATE)
+"However, our aspiration for a Viksit Bharat inspires us, and the 
+transformative work we have done during our Government ’s first two terms 
+guides us, to march forward resolutely.",,,,,,However; Viksit Bharat; Government,terms; forward; viksit; viksit bharat,Government(ORG); first(ORDINAL); two(CARDINAL)
+"Budget Theme  
+4.",,,,,,Budget Theme,budget,4(CARDINAL)
+Our economy is the fastest -growing among all major global economies.,,,,,,Our,economy; global,
+"Our development track record of the past 10 years and structural reforms have 
+drawn global attention.",,,,,,Our,track; 10 years; global; development,the past 10 years(DATE)
+"Confidence in India’s capability and potential has only 
+ 2  
+ 
+grown in this period.",,,,,,Confidence; India,grown; capability; potential; period,India(GPE); 2(CARDINAL)
+"We see the next five years as a unique opportunity to 
+realize ‘Sabka Vikas’, stimulating balanced growth of all regions.",,,,,,Sabka Vikas,sabka; unique; growth; years,the next five years(DATE); Sabka Vikas(PERSON)
+"The great Telugu poet and playwright Gurajada Appa Rao had said, 
+‘Desamante Matti Kaadoi, Desamante Manushuloi ’; meaning, ‘A country is not 
+just its soil, a country is its people.’",,,,,,The; Telugu; Gurajada Appa Rao; Desamante Matti Kaadoi; Desamante Manushuloi,country; great; said; people,Gurajada Appa Rao(PERSON); Kaadoi(PERSON); Desamante Manushuloi(PERSON)
+"In line with this, for us, Viksit Bharat, 
+encompasses:  
+a) zero -poverty;  
+b) hundred per cent good quality school education;   
+c) access to high -quality, affordable, and comprehensive healthcare;  
+d) hundred per cent skilled labour with meaningful employment;  
+e) seventy per cent women in economic activities; and  
+f) farmers making our country the ‘food basket of the world’.",,,,,,Viksit Bharat,cent; quality; encompasses; good,Viksit Bharat(PERSON); zero(CARDINAL); hundred per cent(MONEY); seventy per cent(MONEY)
+"In this Budget, the proposed development measures span ten broad 
+areas focusing on Garib, Youth, Annadata and Nari.  
+1) Spurring Agricultural Growth and Productivity;  
+2) Building Rural Prosperity and Resilience;  
+3) Taking Everyone Together on an Inclusive Growth path;  
+4) Boosting Manufacturing and Furthering Make in India;  
+5) Supporting MSMEs;  
+6) Enabling Employment -led Development;  
+7) Investing in people, economy and innovation;  
+8) Securing Energy Supplies;  
+9) Promoting Exports; and  
+10)",,,,,,Make in India; Budget; Garib; Youth; Annadata; Nari; Spurring Agricultural Growth; Productivity; Building Rural Prosperity; Resilience; Taking Everyone Together; Inclusive Growth; Boosting Manufacturing; Furthering Make; India; Supporting; Enabling Employment; Development; Investing; Securing Energy Supplies; Promoting Exports,growth; development; building rural; agricultural,Budget(ORG); ten(CARDINAL); Garib(GPE); Youth(GPE); Annadata(GPE); Nari(ORG); 2(CARDINAL); Building Rural Prosperity and Resilience(ORG); 3(CARDINAL); 4(CARDINAL); India(GPE); 5(CARDINAL); 6(CARDINAL); 8)(CARDINAL); 9(CARDINAL)
+Nurturing Innovation .,,,,,,Nurturing Innovation,innovation,
+"For this journey of development,  
+a)",,,,,,For,development,
+"Our four powerful engines are: Agriculture, MSME, Investment, and 
+Exports  
+b)",,,,,Agriculture,Our; Agriculture; Investment; Exports,agriculture; exports; investment,four(CARDINAL); MSME(ORG); Investment(ORG)
+"The fuel: our Reforms  
+c)",,,,,,The; Reforms,fuel; reforms,
+"Our guiding spirit: Inclusivity  
+d)",,,,,,Our; Inclusivity,spirit,
+"And the destination: Viksit Bharat  
+ 3  
+ 
+8.",,,,,,And; Viksit Bharat,destination; viksit bharat; viksit; bharat,3(CARDINAL)
+This Budget aims to initiate transformative reforms across six domains.,,,,,,This Budget,budget; reforms,Budget(ORG); six(CARDINAL)
+"During the next five years, these will augment our growth potential and global 
+competitiveness.","rs,",",",,,,During,potential; competitiveness; growth; global,the next five years(DATE)
+"The domains are:  
+1) Taxation;  
+2) Power Sector;  
+3) Urban Development;  
+4) Mining;  
+5) Financial Sector; and  
+6) Regulatory Reforms.",,,,,,The; Taxation; Power Sector; Urban Development; Mining; Financial Sector; Regulatory Reforms,sector; mining; financial sector; power,2(CARDINAL); 3(CARDINAL); 4(CARDINAL); 5(CARDINAL)
+"Agriculture as the 1st Engine  
+9.",,,,,Agriculture,Agriculture; Engine,agriculture 1st; 1st engine; 1st; agriculture,1st(ORDINAL); 9(CARDINAL)
+"Now I move to specific proposals, beginning with ‘Agriculture as the 1st 
+Engine’.",,,,,Agriculture,Now; Agriculture; Engine,agriculture 1st; 1st engine; 1st; specific,the 1st(DATE)
+"Prime Minister Dhan -Dhaanya Krishi Yojana - Developing Agri Districts 
+Programme  
+10.",,,,,,"Prime Minister Dhan; Dhaanya Krishi Yojana; Developing Agri Districts 
+Programme",prime; prime minister; districts; minister,Dhan -Dhaanya(PERSON); 10(CARDINAL)
+"Motivated by the success of the Aspirational Districts Programme, our 
+Government  will undertake a ‘Prime Minister Dhan -Dhaanya Krishi Yojana ’ in 
+partnership with states.",,,,,,Motivated; Aspirational Districts Programme; Government; Prime Minister Dhan; Dhaanya Krishi Yojana,partnership states; success; prime; prime minister,the Aspirational Districts Programme(ORG); Dhan -Dhaanya(PERSON)
+"Through the convergence of existing schemes and 
+specialized measures, the programme will cover 100 districts with low 
+productivity, moderate crop intensity and below -average credit parameters.",rs.,.,,,,Through,crop; cover; schemes; districts,100(CARDINAL)
+"It 
+aims to (1) enhance agricultural  productivity, (2) adopt crop diversification and 
+sustainable agriculture practices, (3) augment post -harvest stor age at the 
+panchayat and block level, (4) improve irrigation facilities, and (5) facilitate 
+availability of long -term and short -term credit.",,,,,,,term; agricultural; facilities; crop,1(CARDINAL); 2(CARDINAL); 3(CARDINAL); 4(CARDINAL); 5(CARDINAL)
+"This programme is likely to help 
+1.7 crore farmers.",rs.,.,,,,This,help; programme; farmers; crore,1.7(CARDINAL)
+"Building Rural Prosperity and Resilience  
+11.",,,,,,Building Rural Prosperity; Resilience,building rural; rural prosperity; prosperity resilience; prosperity,Building Rural Prosperity and Resilience(ORG)
+"A comprehensive multi -sectoral ‘Rural Prosperity and Resilience’ 
+programme will be launched in partnership with states.",,,,,,Rural Prosperity; Resilience,prosperity resilience; rural prosperity; partnership states; comprehensive,Rural Prosperity and Resilience(ORG)
+"This will address under -
+employment in agriculture through skilling, investment, technology, and 
+invigorating the rural economy.",,,,,,This,address; rural economy; technology; skilling,
+"The goal  is to generate ample opportunities in 
+rural areas so that migration is an option, but not a necessity.",,,,,,The,goal; generate; rural areas; opportunities,
+12.,,,,,,,12,12(CARDINAL)
+"The programme will focus on rural women, young farmers, rural youth, 
+marginal and small farmers, and landless families.","rs,",",",,,,The,rural; farmers; families; marginal,
+"Details are in Annexure A.  
+ 4  
+ 
+13.",,,,,,Details; Annexure,details annexure; details; 13; annexure,4(CARDINAL); 13(CARDINAL)
+"Global and domestic best practices will be incorporated and 
+appropriate technical and financial assistance will be sought from multilateral 
+development banks.",,,,,,Global,incorporated; technical; banks; appropriate,
+"In Phase -1, 100 developing agri -districts will be covered.",,,,,,Phase,districts; covered; 100,100(CARDINAL)
+"Aatmanirbharta in Pulses    
+14.",,,,,,Aatmanirbharta; Pulses,aatmanirbharta; aatmanirbharta pulses; pulses; 14,Aatmanirbharta(GPE); Pulses(GPE)
+"Our Government  is implementing the National Mission for Edible 
+Oilseed for achieving atmanirbhrata in edible oils.",,,,,,"Our Government; National Mission; Edible 
+Oilseed",national mission; national; mission; government,"the National Mission for Edible 
+Oilseed(ORG)"
+"Our farmers have the 
+capability to grow enough for our needs and more.",,,,,,Our,capability; needs; farmers,
+15.,,,,,,,15,15(CARDINAL)
+"Ten years ago, we made concerted efforts and succeeded in achieving 
+near self -sufficiency in pulses.",,,,,,Ten,pulses; efforts; self; years,Ten years ago(DATE)
+"Farmers responded to the need by increasing the 
+cultivated area by 50 per cent and Government  arranged for procurement and 
+remunerative prices.",,,,,,Farmers; Government,remunerative; remunerative prices; area; prices,50 per cent(MONEY)
+"Since then, with rising incomes and better affordability, 
+our consumption of pulses has increased significantly.",,,,,,Since,incomes; rising; pulses; increased,
+16.,,,,,,,16,16(CARDINAL)
+"Our Government  will now launch a 6 -year “Mission for Aatmanirbharta 
+in Pulses” with a special focus on Tur, Urad and Masoor.",,,,,,Our Government; Mission; Aatmanirbharta; Pulses; Tur; Urad; Masoor,aatmanirbharta; aatmanirbharta pulses; special focus; pulses,"6 -year(DATE); Aatmanirbharta(PERSON); Pulses(GPE); Tur, Urad(GPE); Masoor(ORG)"
+"Details are in 
+Annexure B. Central agencies (NAFED and NCCF) will be ready to procure these 
+3 pulses, as much as offered during the next 4 years  from farmers who register 
+with these agencies and enter into agreements.",,,,,,Details; Annexure; Central,details annexure; central; pulses; details,NAFED(ORG); NCCF(ORG); 3(CARDINAL); the next 4 years(DATE)
+"Comprehensive Programme for Vegetables & Fruits  
+17.",,,,,,Comprehensive Programme; Vegetables; Fruits,comprehensive; 17; programme,"Comprehensive Programme for Vegetables & Fruits  
+(ORG); 17(CARDINAL)"
+"It is encouraging that our people are increasingly becoming aware of 
+their nutritional needs.",,,,,,,encouraging; nutritional; needs; people,
+"With rising 
+income levels, the consumption of vegetables, fruits and shree -anna is 
+increasing significantly.",,,,,,With,rising; increasing; income,
+"A compr ehensive programme to promote production, 
+efficient supplies, processing, and remunerative prices for farmers will be 
+launched in partnership with states.",,,,,,,remunerative prices; remunerative; supplies; partnership states,
+"Appropriate institutional mechanisms for 
+implementation and participation of farmer producer organiza tions and 
+cooperatives will be set up.",,,,,,Appropriate,appropriate; set,cooperatives(ORG)
+"Makhana Board in Bihar  
+18.",,,,,,Makhana Board; Bihar,makhana; bihar; 18; board,Makhana Board(ORG); Bihar(GPE)
+"For this, there is a special opportunity for the people of Bihar.",,,,,,For; Bihar,bihar; special; people,Bihar(GPE)
+"A 
+Makhana Board will be established in the state to improve production, 
+processing, value addition, and marketing of makhana.",,,,,,Makhana Board,makhana; established; processing; improve,Makhana Board(ORG); makhana(PERSON)
+"The people engaged in 
+these activities will be organized into FP Os.",,,,,,The,engaged; activities; people,FP Os(ORG)
+"The Board will provide handholding 
+and training support to makhana farmers and will also work to ensure they 
+receive the benefits of all relevant Government  schemes.",,,,,,The Board; Government,makhana; ensure; schemes; benefits,Board(ORG)
+"5  
+ 
+National Mission on High Yielding Seeds  
+19.",,,,,,National Mission; High Yielding Seeds,national mission; 19; seeds; high,5(CARDINAL); 19(CARDINAL)
+"A National Mission on High Yielding Seeds will be launched, aimed at (1) 
+strengthening the research ecosystem, (2) targeted development and 
+propagation of seeds with high yield, pest resistance and climate resilience, and 
+(3) commercial availability of mor e than 100 seed varieties released since July 
+2024.",,,,,,National Mission; High Yielding Seeds; July,seeds; high; national mission; climate,"1(CARDINAL); 2(CARDINAL); 3(CARDINAL); e than 100(CARDINAL); July 
+2024(DATE)"
+"Fisheries  
+20.",,,,,,Fisheries,20,20(CARDINAL)
+India ranks second -largest globally in fish production and aquaculture.,,,,,,India,fish; production; india,India(GPE); second(ORDINAL)
+Seafood exports are valued at ` 60 thousand crore.,,,,,,Seafood,thousand; 60; exports; crore,Seafood(ORG); 60 thousand(CARDINAL)
+"To unlock the untapped 
+potential of the marine sector, our Government  will bring in an enabling 
+framework for sustainable harnessing of fisheries from Indian Exclusive 
+Economic Zone and High Seas, with a special focus on the Andaman & Nicobar 
+and Lakshadweep Islands.",,,,,,"Government; Indian Exclusive 
+Economic Zone; High Seas; Andaman; Nicobar; Lakshadweep Islands",zone; economic zone; potential; enabling,Government(ORG); Indian(NORP); High Seas(PERSON); Andaman & Nicobar(ORG); Lakshadweep Islands(LOC)
+"Mission for Cotton Productivity  
+21.",,,,,,Mission; Cotton Productivity,21; cotton; productivity; mission,
+"For the benefit of lakhs of cotton growing farmers, I am pleased to 
+announce a ‘Mission for Cotton Productivity’.","rs,",",",,,,For; Mission; Cotton Productivity,cotton; announce; productivity; benefit,
+"This 5 -year mission will facilitate 
+significant improvements in productivity and sustainability of cotton farming, 
+and promote extra -long stap le cotton varieties.",,,,,,This,cotton; significant; long; productivity,This 5 -year(DATE)
+"The best of science & 
+technology support will be provided to farmers.",rs.,.,,,,The,support provided; best; technology; provided,
+"Aligned with our integrated 5F 
+vision for the textile sector, this will help in increasing incomes of the farmers, 
+and ensure a steady supply of quality cotton for r ejuvenating India’s traditional 
+textile sector.","rs,",",",,,,Aligned; India,textile; sector; incomes; cotton,5F(CARDINAL); India(GPE)
+"Enhanced Credit through KCC  
+22.",,,,,,Enhanced Credit,22; enhanced; credit,Enhanced Credit(ORG); 22(CARDINAL)
+"Kisan Credit Cards (KCC) facilitate short term loans for 7.7 crore farmers, 
+fishermen, and dairy farmers.","rs,",",",,,,Kisan Credit Cards,farmers; term loans; credit cards; cards,Kisan Credit Cards(ORG); KCC(ORG); 7.7(CARDINAL)
+"The loan limit under the Modified Interest 
+Subvention Scheme will be enhanced from ` 3 lakh to 5 lakh for loans taken 
+through the KCC.",3 lakh,3,lakh,,,"The; Modified Interest 
+Subvention Scheme",lakh; loan; taken; loans,"the Modified Interest 
+Subvention Scheme(ORG); 3(CARDINAL); 5(CARDINAL); KCC(ORG)"
+"Urea Plant in Assam  
+23.",,,,,,Urea Plant; Assam,plant; urea; 23,Urea Plant in Assam(ORG)
+"For Atmanirbharta in urea production, our Government  had reopened 
+three dormant urea plants in the Eastern region.",,,,,,For Atmanirbharta; Government; Eastern,urea; region; production; government,Atmanirbharta(GPE); Government(ORG); three(CARDINAL); Eastern(NORP)
+"To further augment urea 
+supply, a plant with annual capacity of 12.7 lakh metric tons will be set up at 
+Namrup, Assam.",7 lakh,7,lakh,,,Namrup; Assam,plant; urea; annual; 12 lakh,annual(DATE); 12.7 lakh metric tons(QUANTITY)
+"India Post as a Catalyst for the Rural Economy  
+24.",,,,,,India Post; Catalyst; Rural Economy,catalyst rural; catalyst; rural economy; india post,"India Post(ORG); Catalyst(FAC); the Rural Economy  
+24(ORG)"
+"India Post with 1.5 lakh rural post offices, complemented by the India 
+Post Payment Bank and a vast network of 2.4 lakh Dak Sevaks, will be 
+repositioned to act as a catalyst for the rural economy.",5 lakh,5,lakh,,,"India Post; India 
+Post Payment Bank; Dak Sevaks",post; india post; rural; india,"India Post(ORG); 1.5(CARDINAL); the India 
+Post Payment Bank(ORG); 2.4(CARDINAL); Dak Sevaks(PERSON)"
+"Details are at 
+Annexure C.  
+ 6  
+ 
+25.",,,,,,Details; Annexure,details annexure; details; annexure; 25,C.(NORP)
+"India Post will also be transformed as a large public logistics 
+organization.",,,,,,India Post,public; large; india post; post,India Post(ORG)
+"This will meet the rising needs of Viswakarmas, new 
+entrepreneurs, women, self -help groups, MSMEs, and large business 
+organizations.","rs,",",",,,,This; Viswakarmas,entrepreneurs; groups; rising; large,Viswakarmas(PERSON)
+"Support to NCDC  
+26.",,,,,,Support,26; support,NCDC(ORG); 26(CARDINAL)
+"Our Government  will provide support to NCDC for its lending operations 
+for the cooperative sector.  
+MSMEs as the 2nd engine  
+27.",,,,,,Our Government,cooperative; msmes 2nd; 2nd; 27,NCDC(ORG); 2nd(ORDINAL); 27(CARDINAL)
+"Now, I move to MSMEs as the 2nd engine, which encompasses 
+manufacturing and services with a focus on MSMEs  numbering 5.7 crore .",7 crore,7,crore,,,Now,msmes; encompasses; msmes 2nd; 2nd,2nd(ORDINAL); 5.7(CARDINAL)
+"Revision in classification criteria for MSMEs  
+28.",,,,,,Revision,classification; 28; msmes,28(CARDINAL)
+"Currently, over 1 crore registered MSMEs, employing 7.5 crore people, 
+and generating 36 per cent of our manufacturing, have come together to 
+position India as a global manufacturing hub.",1 crore,1,crore,,,Currently; India,manufacturing; crore; hub; registered,over 1(CARDINAL); 7.5(CARDINAL); 36 per cent(MONEY); India(GPE)
+"With their quality products, 
+these MSMEs are responsible for 45 per c ent of our exports.",,,,,,With,quality; msmes; exports; products,45(CARDINAL)
+"To help them 
+achieve higher efficiencies of scale, technological upgradation and better 
+access to capital, the investment and turnover limits for classification of all 
+MSMEs will be enhanced to 2.5 and 2 times respectively.",,,,,,,respectively; technological; achieve; limits,2.5(CARDINAL); 2(CARDINAL)
+"This will gi ve them 
+the confidence to grow and generate employment for our youth.",,,,,,This,generate; youth; employment,
+"The details 
+are in Annexure D.  
+Significant enhancement of credit availability with guarantee cover  
+29.",,,,,,The; Annexure; Significant,enhancement; guarantee; significant; details annexure,D.(NORP); 29(CARDINAL)
+"To improve access to credit, the credit guarantee cover will be 
+enhanced : 
+a)",,,,,,,credit; guarantee; cover; improve,
+"For Micro and Small Enterprises, from ` 5 crore to 10 crore, leading 
+to additional credit of ` 1.5 lakh crore in the next 5 years;  
+b) For Startups, from ` 10 crore to 20 crore, with the guarantee fee 
+being moderated to 1 per cent for loans in 27 focus sectors 
+important for Atmanirbhar Bharat; and  
+c) For well -run exporter MSMEs, for term loans up to ` 20 crore.",5 crore,5,crore,,,For Micro; Small Enterprises; For Startups; Atmanirbhar Bharat; For,crore; loans; 20; 10,5(CARDINAL); 10(CARDINAL); 1.5(CARDINAL); the next 5 years(DATE); Startups(ORG); 10(CARDINAL); 20(CARDINAL); 1 per cent(MONEY); 27(CARDINAL); Atmanirbhar Bharat(PERSON); 20(CARDINAL)
+"Credit Cards for Micro Enterprises  
+30.",,,,,,Credit Cards; Micro Enterprises,micro; credit cards; enterprises; cards,Credit Cards for Micro Enterprises(ORG)
+"We will introduce customized Credit Cards with a ` 5 lakh limit for micro 
+enterprises registered on Udyam portal.",5 lakh,5,lakh,,,Credit Cards; Udyam,portal; micro; enterprises; credit cards,Credit Cards(ORG); 5(CARDINAL); Udyam(PERSON)
+"In the first year, 10 lakh such cards will 
+be issued.",10 lakh,10,lakh,,,,10 lakh; cards; year; lakh,the first year(DATE); 10(CARDINAL)
+"7  
+ 
+Fund of Funds for Startups  
+31.",,,,,,Fund; Funds; Startups,fund funds; startups; 31; funds,7(CARDINAL)
+"The Alternate Investment Funds (AIFs) for startups have received 
+commitments of more than ` 91,000 crore.",000 crore,000,crore,,,The Alternate Investment Funds,91; startups; received; 000 crore,"The Alternate Investment Funds(ORG); more than ` 91,000(CARDINAL)"
+"These are supported by the Fund 
+of Funds set up with a Government  contribution of ` 10,000 crore.",000 crore,000,crore,,,These; Fund; Funds; Government,fund funds; contribution; 000 crore; 10 000,"Funds(ORG); 10,000(CARDINAL)"
+"Now, a new 
+Fund of Funds, with expanded scope and a fresh contribution of another  
+` 10,000 crore will be set up.",000 crore,000,crore,,,Now; Fund; Funds,scope; fund funds; expanded; contribution,"10,000(CARDINAL)"
+"Scheme for First -time Entrepreneurs  
+32.","rs  
+32.",32.,,,,Scheme; First; Entrepreneurs,entrepreneurs; 32; time; scheme,First(ORDINAL)
+"A new scheme will be launched for 5 lakh women, Scheduled Castes and 
+Scheduled Tribes first -time entrepreneurs.",rs.,.,,,,Scheduled Castes; Scheduled Tribes,entrepreneurs; women; launched; time,5(CARDINAL); first(ORDINAL)
+"This will provide term loans up  
+to ` 2 crore during the next 5 years.",rs.,.,,,,This,term loans; term; loans; years,2(CARDINAL); the next 5 years(DATE)
+"The scheme will incorporate lessons from 
+the successful Stand -Up India scheme.",,,,,,The; Stand; India,scheme; india,Stand(GPE); India(GPE)
+"Online capacity building for 
+entrepreneurship and managerial skills will also be organized.",,,,,,Online,capacity building; entrepreneurship; skills; capacity,
+"Measures for Labour -Intensive Sectors      
+33.","rs      
+33.",33.,,,,Measures; Labour; Intensive Sectors,33; sectors; measures,33(CARDINAL)
+"To promote employment and entrepreneurship opportunities in 
+labour -intensive sectors, our Government  will undertake specific policy and  
+facilitation measures.","rs,",",",,,,Government,entrepreneurship; facilitation; opportunities; specific,Government(ORG)
+"Focus Product Scheme for Footwear & Leather Sectors  
+34.","rs  
+34.",34.,,,,Focus Product Scheme; Footwear; Leather Sectors,footwear; 34; sectors; leather,Focus Product Scheme for(ORG); 34(CARDINAL)
+"To enhance the productivity, quality and competitiveness  of India’s 
+footwear and leather sector, a focus product scheme will be implemented.",,,,,,India,footwear; implemented; competitiveness; enhance,India(GPE)
+"The 
+scheme will support design capacity, component manufacturing, and 
+machinery required for production of non -leather quality footwear, besides the 
+support for leather foo twear and products.",,,,,,The,leather; support; required; footwear,
+"The scheme is expected to facilitate 
+employment for 22 lakh persons, generate turnover of ` 4 lakh crore and 
+exports of over ` 1.1 lakh crore.",22 lakh,22,lakh,,,The,lakh; lakh crore; crore; expected,22(CARDINAL); 4(CARDINAL); 1.1(CARDINAL)
+"Measures for the Toy Sector  
+35.",,,,,,Measures; Toy Sector,35; measures; sector,
+"Building on the National Action Plan for Toys, we will implement a 
+scheme to make India a global hub for toys.",,,,,,Building; National Action Plan; Toys; India,toys; hub; plan; implement,the National Action Plan for Toys(ORG); India(GPE)
+"The scheme will focus on 
+development of clusters, skills, and a manufacturing ecosystem  that will create 
+high -quality, unique, innovative, and sustainable toys that will represent the 
+'Made in India' brand.","rs,",",",,,,The; Made; India,unique; ecosystem; skills; toys,India(GPE)
+"Support for Food Processing  
+36.",,,,,,Support; Food Processing,processing; food; 36; support,
+"In line with our commitment towards ‘Purvodaya ’, we will establish a 
+National Institute of Food Technology, Entrepreneurship and Management in 
+Bihar.",,,,,,Purvodaya; National Institute; Food Technology; Entrepreneurship; Management; Bihar,management; commitment; entrepreneurship; technology,National Institute of Food Technology(ORG); Bihar(GPE)
+"The institute will provide a strong fillip to food processing activities in 
+ 8  
+ 
+the entire Eastern region.",,,,,,The; Eastern,entire; region; activities; processing,8(CARDINAL); Eastern(NORP)
+"This will result in (1) enhanced income for the 
+farmers through value addition to their produce, and (2) skilling, 
+entrepreneurship and employment opportunities for the youth.",,,,,,This,result; entrepreneurship; skilling; opportunities,1(CARDINAL); 2(CARDINAL)
+"Manufacturing Mission - Furthering “Make in India”  
+37.",,,,,,Make in India; Manufacturing Mission; Furthering; Make; India,furthering make; furthering; 37; make india,India(GPE); 37(CARDINAL)
+"Our Government  will set up a National Manufacturing Mission covering 
+small, medium and large industries for furthering “Make in India” by providing 
+policy support, execution roadmaps, governance and monitoring framework 
+for central ministries and states.",,,,,,Make in India; Our Government; National Manufacturing Mission; Make; India,furthering make; providing; large; furthering,Make in India(WORK_OF_ART)
+"Details are in Annexure E.  
+Clean Tech Manufacturing  
+38.",,,,,,Details; Annexure; Clean Tech Manufacturing,tech; details annexure; 38; details,38(CARDINAL)
+"Given our commitment to climate -friendly development, the Mission 
+will also support Clean Tech manufacturing.",,,,,,Given; Mission; Clean Tech,climate; given; tech; friendly,Clean Tech(ORG)
+"This will aim to improve domestic 
+value addition and build our ecosystem for solar PV cells, EV batteries, motors 
+and controllers, electrolyzers, wind turbines, very high voltage transmission 
+equipment and grid scale batteries.","rs,",",",,,,This,ecosystem; cells; improve; value addition,EV(ORG)
+"Investment as the 3rd engine  
+39.",,,,,,Investment,39; engine; investment,3rd(ORDINAL); 39(CARDINAL)
+"Now, I move to Investment as the 3rd engine, which encompasses 
+investing in people, investing in the economy and investing in innovation.",,,,,,Now; Investment,investing; encompasses; investing people; innovation,Investment(ORG); 3rd(ORDINAL)
+"A. Investing in People  
+Saksham Anganwadi and Poshan 2.0  
+40.",,,,,,"Investing; People  
+Saksham Anganwadi; Poshan",investing people; investing; 40; people,"Poshan 2.0  
+40(FAC)"
+"The Saksham Anganwadi and Poshan 2.0 programme provides 
+nutritional support to more than 8 crore children, 1 crore pregnant women and 
+lactating mothers all over the country, and about 20 lakh adolescent girls in 
+aspirational districts and the north -east re gion.",8 crore,8,crore,,,The Saksham Anganwadi; Poshan,crore; nutritional; provides; women,The Saksham Anganwadi(ORG); Poshan 2.0(FAC); more than 8(CARDINAL); 1(CARDINAL); about 20(CARDINAL)
+"The cost norms for the 
+nutritional support will be enhanced appropriately.",,,,,,The,nutritional; cost; enhanced; support,
+"Atal Tinkering Labs  
+41.",,,,,,Atal Tinkering Labs,,
+"Fifty thousand Atal Tinkering Labs will be set up in Government  schools 
+in next 5 years to cultivate the spirit of curiosity and innovation, and foster a 
+scientific temper among young minds.",,,,,,Fifty; Atal Tinkering Labs; Government,thousand; spirit; innovation; set,Fifty thousand(CARDINAL); Atal Tinkering Labs(ORG); next 5 years(DATE)
+"Broadband Connectivity to Government Secondary Schools and PHCs  
+42.",,,,,,Broadband Connectivity; Government Secondary Schools,connectivity; government,Broadband Connectivity to Government(ORG)
+"Broadband connectivity will be provided to all Government  secondary 
+schools and primary health centres in rural areas under the Bharatnet project.",,,,,,Broadband; Government; Bharatnet,health; rural areas; connectivity; project,Broadband(GPE); Bharatnet(ORG)
+"9  
+ 
+Bharatiya Bhasha Pustak Scheme  
+43.",,,,,,Bharatiya Bhasha Pustak Scheme,bharatiya; scheme,9(CARDINAL); Bharatiya Bhasha Pustak Scheme(ORG)
+"We propose to implement a Bharatiya Bhasha Pustak Scheme to 
+provide digital -form Indian language books for school and higher education.",,,,,,Bharatiya Bhasha Pustak Scheme; Indian,bharatiya; digital; implement; higher,Bharatiya Bhasha Pustak Scheme(ORG); Indian(NORP)
+This aims to help students understand their subjects better.,,,,,,This,students; understand; help; better,
+"National Centres of Excellence for Skilling  
+44.",,,,,,National Centres; Excellence; Skilling,centres excellence; excellence; skilling; centres,National Centres of Excellence(ORG)
+"Building on the initiative announced in the July 2024 Budget, five 
+National Centres of Excellence for skilling will be set up with global expertise 
+and partnerships to equip our youth with the skills required for “Make for India, 
+Make for the World” manufa cturing.",,,,,,Building; July; Budget; National Centres; Excellence; Make; India; World,make; centres excellence; required; announced july,the July 2024(DATE); five(CARDINAL); National Centres of Excellence(ORG); Make for India(WORK_OF_ART)
+"The partnerships will cover curriculum 
+design, training of trainers, a skills certification framework, and periodic 
+reviews.","rs,",",",,,,The,skills; cover; framework,
+"Expansion of Capacity in IITs  
+45.",,,,,,Expansion; Capacity,expansion; iits; capacity,
+"Total number of students in 23 IITs has increased 100 per cent from 
+65,000 to 1.35 lakh in the past 10 years.",rs.,.,,,,Total,65 000; 100 cent; students; 65,"23(CARDINAL); 100 per cent(MONEY); 65,000(CARDINAL); 1.35(CARDINAL); the past 10 years(DATE)"
+"Additional infrastructure will be 
+created in the 5 IITs started after 2014 to facilitate education for 6,500 more 
+students.",,,,,,Additional,students; iits; education; additional,"5(CARDINAL); 2014(DATE); 6,500(CARDINAL)"
+"Hostel and other infra structure capacity at IIT, Patna will also be 
+expanded.",,,,,,Hostel; Patna,expanded; structure; capacity,Hostel(ORG); IIT(ORG); Patna(ORG)
+"Centre of Excellence in AI for Education  
+46.",,,,,Education,Centre; Excellence; Education,centre; excellence; education,Centre of Excellence(ORG); AI(GPE); 46(CARDINAL)
+"I had announced three Centres of Excellence in Artificial Intelligence for 
+agriculture,  health,  and sustainable cities in 2023.",,,,,,Centres; Excellence; Artificial Intelligence,cities; centres excellence; health; excellence,three(CARDINAL); Centres of Excellence(ORG); 2023(DATE)
+"Now a Centre of Excellence 
+in Artificial Intelligence for education will be set up with a total outlay of ` 500 
+crore.","500 
+crore",500,crore,,,Now; Centre; Excellence; Artificial Intelligence,centre; outlay; excellence; education,Artificial Intelligence(ORG); 500(CARDINAL)
+"Expansion of medical education  
+47.",,,,,,Expansion,expansion; 47; medical; education,47(CARDINAL)
+"Our Government  has added almost 1.1 lakh UG and PG medical 
+education seats in ten years, an increase of 130 per cent.","rs,",",",,,,Our Government,seats; medical; education; increase,almost 1.1(CARDINAL); UG(GPE); ten years(DATE); 130 per cent(MONEY)
+"In the next  year, 
+10,000  additional seats will be added in medical colleges and hospitals, towards 
+the goal of adding 75,000 seats in the next 5 years.",rs.,.,,,,,seats; 000; goal; hospitals,"the next  year(DATE); 10,000(CARDINAL); 75,000(CARDINAL); the next 5 years(DATE)"
+"Day Care Cancer Centres in all District Hospitals   
+48.",,,,,,Day Care Cancer Centres; District Hospitals,cancer; hospitals; 48; day,District Hospitals(ORG); 48(DATE)
+"Our Government  will facilitate setting up of Day Care Cancer Centres 
+in all district hospitals in the next 3 years.",rs.,.,,,,Our Government; Day Care Cancer Centres,cancer; hospitals; day; centres,Day Care Cancer Centres(ORG); the next 3 years(DATE)
+"200 Centres will be established in 
+2025 -26.",,,,,,Centres,established; 2025 26; 26; centres,200(CARDINAL); Centres(ORG); 2025(DATE)
+"10  
+ 
+Strengthening urban livelihoods  
+49.",,,,,,Strengthening,urban; 10,10(CARDINAL)
+"Our Government  has been giving priority to assisting urban poor and 
+vulnerable groups.",,,,,,Our Government,giving; groups; urban; government,
+"A scheme for socio -economic upliftment of urban workers 
+will be implemented to help them improve their incomes, have sustainable 
+livelihoods and a better quality of life.",,,,,,,workers; incomes; implemented; sustainable,
+PM,,,,,,,pm,
+"SVANidhi  
+50.",,,,,,,50,50(CARDINAL)
+PM,,,,,,,pm,
+"SVANidhi scheme has benefitted more than 68 lakh street vendors 
+giving them respite from high -interest informal sector loans.",68 lakh,68,lakh,,,,giving; loans; high; sector,more than 68(CARDINAL)
+"Building on this 
+success, the scheme will be revamped with enhanced loans from banks, UPI 
+linked credit cards with ` 30,000 limit, and capacity building support.",,,,,,Building,building; capacity building; 30 000; credit cards,"UPI(NORP); 30,000(CARDINAL)"
+"Social Security Scheme for Welfare of Online Platform Workers  
+51.","rs  
+51.",51.,,,,Social Security Scheme; Welfare; Online Platform Workers,platform; workers; scheme,Social Security Scheme for Welfare of Online Platform Workers(ORG); 51(CARDINAL)
+"Gig workers of online platforms provide great dynamism to the new -
+age services economy.",,,,,,Gig,great; workers; economy; services,
+"Recognising their contribution, our Government  will 
+arrange for their identity cards and registration on the e -Shram portal.",,,,,,Recognising; Government; Shram,contribution government; portal; registration; cards,Government(ORG)
+"They 
+will be provided healthcare under PM Jan Arogya Yojana.",,,,,,They; Jan Arogya Yojana,jan; pm; provided,under PM Jan(DATE); Yojana(GPE)
+"This measure is likely 
+to assist nearly 1 crore gig -workers.",rs.,.,,,,This,nearly; workers; crore,nearly 1(CARDINAL)
+"B. Investing in the Economy  
+Public Private Partnership in Infrastructure  
+52.",,,,,,"Investing; Economy  
+Public Private Partnership; Infrastructure",public; investing; partnership; private,
+"Each infrastructure -related ministry will come up with a 3 -year pipeline 
+of projects that can be implemented in PPP mode.",,,,,,Each,implemented; projects; come; related,3 -year(DATE)
+"States will also be 
+encouraged to do so and can seek support from the IIPDF (India Infrastructure 
+Project Development Fund) scheme to prepare PPP proposals.",,,,,,"States; India Infrastructure 
+Project Development; Fund",encouraged; project; proposals; infrastructure,Project Development Fund(ORG); PPP(ORG)
+"Support to States for Infrastructure  
+53.",,,,,,Support; States; Infrastructure,infrastructure; states; support,
+"An outlay of ` 1.5 lakh crore is proposed for the 50 -year interest free 
+loans to states for capital expenditure and incentives for reforms.",5 lakh,5,lakh,,,,incentives; expenditure; outlay; free,1.5(CARDINAL); the 50 -year(DATE)
+"Asset Monetization Plan 2025 -30 
+54.",,,,,,Asset Monetization Plan,54; plan; asset; 30,54(DATE)
+"Building on the success of the first Asset Monetization Plan announced 
+in 2021, the second Plan for 2025 -30 will be launched to plough back capital of 
+` 10 lakh crore in new projects.",10 lakh,10,lakh,,,Building; Asset Monetization Plan; Plan,plan; 10 lakh; projects; success,first(ORDINAL); Asset Monetization Plan(EVENT); 2021(DATE); second(ORDINAL); 2025(DATE); 10(CARDINAL)
+"Regulatory and fiscal measures will be fine -
+tuned to support the Plan.",,,,,,Regulatory; Plan,plan; regulatory; fiscal; measures,Plan(ORG)
+"Jal Jeevan Mission  
+55.",,,,,,Jal Jeevan Mission,mission,Jal Jeevan Mission(PERSON)
+"Since 2019, 15 crore households representing 80 per cent of India’s 
+rural population have been provided access to potable tap water connections.",15 crore,15,crore,,,Since; India,access; 80; water; provided,2019(DATE); 15(CARDINAL); 80 per cent(MONEY); India(GPE)
+"11  
+ 
+To achieve 100 per cent coverage, I am pleased to announce the extension of 
+the Mission until 2028 with an enhanced total outlay.",,,,,,Mission,100 cent; achieve; outlay; announce,11(CARDINAL); 100 per cent(MONEY); 2028(DATE)
+"The Mission’s focus will be on the quality of infrastructure and O&M of 
+rural piped water supply schemes through “Jan Bhagidhari”.",,,,,,The Mission; Jan Bhagidhari,jan; schemes; water; quality,
+"Separate MoUs 
+will be signed with states/UTs, to ensure sustainability and citizen -centric water 
+service delivery.",,,,,,Separate,citizen; service; ensure; water,
+"Urban Sector Reforms  
+57.",,,,,,Urban Sector Reforms,sector reforms; urban; reforms; sector,
+"Building on the July Budget proposals, urban sector reforms related to 
+governance, municipal services, urban land, and planning will be incentivized.",,,,,,Building; July Budget,urban; planning; land; july budget,July(DATE)
+"Urban Challenge Fund  
+58.",,,,,,Urban Challenge Fund,challenge; urban; fund,Urban Challenge Fund(ORG)
+"The Government  will set up an Urban Challenge Fund of ` 1 lakh crore 
+to implement the proposals for ‘Cities as Growth Hubs’, ‘Creative 
+Redevelopment of Cities’ and ‘Water and Sanitation’ announced in the July 
+Budget.",1 lakh,1,lakh,,,"The Government; Urban Challenge Fund; Cities; Growth Hubs; Creative 
+Redevelopment; Water; Sanitation; July 
+Budget",cities; challenge; announced july; july budget,1(CARDINAL); July(DATE)
+59.,,,,,,,59,59(CARDINAL)
+"This fund will finance up to 25 per cent of the cost of bankable projects 
+with a stipulation that at least 50 per cent of the cost is funded from bonds, 
+bank loans, and PPPs.",,,,,,This,cost; cent; projects; bank,up to(CARDINAL); 25 per cent(MONEY); at least 50(CARDINAL)
+"An allocation of ` 10,000 crore is proposed for 2025 -26.",000 crore,000,crore,,,,2025 26; 26; 000 crore; 10 000,"10,000(CARDINAL); 2025(DATE)"
+"Power Sector Reforms  
+60.",,,,,,Power Sector Reforms,power; 60; sector reforms; reforms,60(CARDINAL)
+"We will incentivize electricity distribution reforms and augmentation of 
+intra -state transmission capacity by states.",,,,,,,electricity; state; capacity; states,
+"This will improve financial health 
+and capacity of electricity companies.",,,,,,This,health; electricity; improve; companies,
+"Additional borrowing of 0.5 per cent of 
+GSDP will be allowed to states,  contingent on these reforms.",,,,,,Additional,additional; states; reforms; cent,0.5 per cent(MONEY)
+"Nuclear Energy Mission for Viksit Bharat  
+61.",,,,,,Nuclear Energy Mission; Viksit Bharat,nuclear energy; nuclear; viksit; energy,
+"Development of at least 100 GW of nuclear energy by 2047 is essential 
+for our energy transition efforts.",,,,,,Development,energy; nuclear energy; nuclear; efforts,at least 100(CARDINAL); 2047(DATE)
+"For an active partnership with the private 
+sector towards this goal, amendments to the Atomic Energy Act and the Civil 
+Liability for Nuclear Damage Act  will be taken up.",,,,,,"For; Atomic Energy Act; Civil 
+Liability; Nuclear Damage Act",act; goal; nuclear; energy,"the Atomic Energy Act(LAW); the Civil 
+Liability for Nuclear Damage Act(ORG)"
+"A Nuclear Energy Mission for research & development of Small Modular 
+Reactors (SMR) with an outlay  of ` 20,000 crore will be set up.",000 crore,000,crore,,,"Nuclear Energy Mission; Small Modular 
+Reactors",research development; nuclear energy; outlay; nuclear,"Small Modular 
+Reactors(ORG); SMR(ORG); 20,000(CARDINAL)"
+"12  
+ 
+Shipbuilding    
+63.",,,,,,Shipbuilding,shipbuilding; 12,12(CARDINAL)
+"The Shipbuilding Financial Assistance Policy will be revamped to 
+address cost disadvantages.",,,,,,The Shipbuilding Financial Assistance; Policy,address; revamped; shipbuilding; assistance,
+"This will also include Credit Notes for shipbreaking 
+in Indian yards to promote the circular economy.",,,,,,This; Credit Notes; Indian,notes; include; indian; economy,Credit Notes(ORG); Indian(NORP)
+"Large ships above a specified size will be included in the infrastructure 
+harmonized master list (HML).",,,,,,Large,large; ships; list; specified,HML(ORG)
+65.,,,,,,,65,65(CARDINAL)
+"Shipbuilding Clusters will be facilitated to increase the range, categories 
+and capacity of ships.",,,,,,Shipbuilding Clusters,shipbuilding; ships; increase; capacity,Shipbuilding Clusters(ORG)
+"This will include additional infrastructure facilities, skilling 
+and technology to develop the entire ecosystem.",,,,,,This,facilities; entire; ecosystem; technology,
+"Maritime Development Fund  
+66.",,,,,,Maritime Development Fund,fund; development,Maritime Development Fund(ORG); 66(CARDINAL)
+"For long -term financing for the maritime industry, a Maritime 
+Development Fund with a corpus of ` 25,000 crore will be set up.",000 crore,000,crore,,,"For; Maritime 
+Development Fund",financing; long term; long; 000 crore,"Maritime 
+Development Fund(ORG); 25,000(CARDINAL)"
+"This will be 
+for distributed support and promoting competition.",,,,,,This,promoting; support,
+"This will have up to 49 per 
+cent contribution by the Government , and the balance will be mobilized from 
+ports and private sector.",,,,,,This; Government,contribution government; contribution; private sector; private,up to 49(CARDINAL); Government(ORG)
+"UDAN - Regional Connectivity Scheme    
+67.",,,,,,Regional Connectivity Scheme,udan; connectivity; scheme,UDAN - Regional Connectivity Scheme(ORG)
+"UDAN has enabled 1.5 crore middle -class people to meet their 
+aspirations for speedier travel.",5 crore,5,crore,,,,udan; middle; middle class; class,UDAN(ORG); 1.5(CARDINAL)
+"The scheme has connected 88 airports and 
+operationalized 619 routes.",,,,,,The,scheme,88(CARDINAL); 619(CARDINAL)
+"Inspired by that success, a modified UDAN scheme 
+will be launched to enhance regional connect ivity to 120 new destinations and 
+carry 4 crore passengers in the next 10 years.",rs.,.,,,,Inspired,udan; carry; destinations; success,120(CARDINAL); 4(CARDINAL); the next 10 years(DATE)
+"The scheme will also support 
+helipads and smaller airports in hilly, aspirational, and North East region 
+districts.",,,,,,The; North East,region; districts; support; scheme,North East(LOC)
+"Greenfield Airport in Bihar  
+68.",,,,,,Greenfield Airport; Bihar,bihar,Greenfield Airport(FAC); Bihar(GPE)
+"Greenfield airports will be facilitated in Bihar to meet the future needs 
+of the State.",,,,,,Greenfield; Bihar; State,future; state; bihar; needs,Greenfield(PERSON); Bihar(GPE); State(ORG)
+"These will be in addition to the expansion of the capacity of Patna 
+airport and a brownfield airport at Bihta.",,,,,,These; Patna; Bihta,expansion; capacity; addition,Patna(GPE); brownfield(GPE); Bihta(LOC)
+"Western Koshi Canal Project in Mithilanchal  
+69.",,,,,,Western Koshi Canal Project; Mithilanchal,project,Western Koshi Canal Project(ORG)
+"Financial support will be provided for the Western Koshi Canal ERM 
+Project benefitting a large number of farmers cultivating over 50,000 hectares 
+of land in the Mithilanchal region of Bihar.  
+ 13  
+ 
+Mining Sector Reforms  
+70.",,,,,,Financial; Western Koshi Canal; Project; Mithilanchal; Bihar; Mining Sector Reforms,mining; support provided; region; land,"the Western Koshi Canal ERM 
+Project(ORG); over 50,000 hectares(QUANTITY); Mithilanchal(NORP); Bihar(GPE); 13(CARDINAL); Mining Sector Reforms(ORG)"
+"Mining sector reforms, including those for minor minerals, will be 
+encouraged through sharing of best practices and institution of a State Mining 
+Index.  
+71.",,,,,,"Mining; State Mining 
+Index",mining; encouraged; best; minor,
+A policy for recovery of critical minerals from tailings will be brought out.,,,,,,,brought; critical minerals; critical; minerals,
+"SWAMIH Fund 2  
+72.",,,,,,Fund,swamih; fund,SWAMIH Fund 2(ORG)
+"Under the Special Window for Affordable and Mid -Income Housing 
+(SWAMIH) fifty thousand dwelling units in stressed housing projects have been 
+completed, and keys handed over to home -buyers.",rs.,.,,,,Under; Special Window; Affordable; Mid; Income Housing,swamih; completed; thousand; projects,SWAMIH(ORG); fifty thousand(CARDINAL)
+"Another forty thousand 
+units will be completed in 2025, further hel ping middle -class families who were 
+paying EMIs on loans taken for apartments, while also paying rent for their 
+current dwellings.",,,,,,Another,rent; completed; families; thousand,forty thousand(CARDINAL); 2025(DATE); hel ping(PERSON)
+"Building on this success, SWAMIH Fund 2 will be established as a 
+blended finance facility with contribution from the Government , banks and 
+private investors.",rs.,.,,,,Building; Fund; Government,established; contribution government; swamih; banks,SWAMIH Fund 2(ORG); Government(ORG)
+"This fund of ` 15,000 crore will aim for expeditious 
+completion of another 1 lakh units.",000 crore,000,crore,,,This,15 000; units; 000 crore; fund,"15,000(CARDINAL); 1(CARDINAL)"
+"PM Gati Shakti Data for Private Sector  
+74.",,,,,,Gati Shakti Data; Private Sector,gati; gati shakti; data; private sector,
+"For furthering PPPs and assisting the private sector in project planning, 
+access to relevant data and maps from the PM",,,,,,For,planning; data; project; furthering,
+"Gati Shakti portal will be 
+provided.",,,,,,Gati Shakti,gati shakti; portal; gati; provided,Gati Shakti(PERSON)
+"Tourism for employment -led growth  
+75.",,,,,,Tourism,tourism; employment led; led; 75,75(CARDINAL)
+"Top 50 tourist destination sites in the country will be developed in 
+partnership with states through a challenge mode.",,,,,,Top,tourist; challenge; destination; partnership states,50(CARDINAL)
+"Land for building key 
+infrastructure will have to be provided by states.",,,,,,Land,land; provided; building; infrastructure,
+"Hotels in those destinations 
+will be included in the infrastruct ure HML.",,,,,,Hotels,destinations,HML(ORG)
+"The following measures will be taken for facilitating employment -led 
+growth:  
+1) Organizing intensive skill -development programmes for our youth 
+including in Institutes of Hospitality Management;  
+2) Providing MUDRA loans for homestays;  
+3) Improving ease of travel and connectivity to tourist destinations;  
+ 14  
+ 
+4) Providing performance -linked incentives to states for effective 
+destination management including tourist amenities, cleanliness, 
+and marketing efforts; and  
+5) Introducing streamlined e -visa facilities along with visa -fee waivers 
+for certain tourist groups.",,,,,,The; Organizing; Institutes; Hospitality Management; Providing; Improving; Introducing,tourist; visa; management; providing,1(CARDINAL); Institutes of Hospitality Management(ORG); 2(CARDINAL); 3(CARDINAL); 14(CARDINAL)
+"Continuing with the emphasis on places of spiritual and religious 
+significance in the July Budget, there will be a special focus on destinations 
+related to the life and times of Lord Buddha.",,,,,,Continuing; July Budget; Lord Buddha,destinations; july budget; special focus; related,the July Budget(EVENT); Lord Buddha(PERSON)
+"Medical Tourism and Heal in India  
+78.",,,,,,Medical Tourism; Heal; India,tourism; medical; india,India(GPE)
+"Medical Tourism and Heal in India will be promoted in partnership with 
+the private sector along with capacity building and easier visa norms.",,,,,,Medical Tourism; Heal; India,visa; capacity building; tourism; medical,India(GPE)
+"C. Investing in Innovation  
+Research, Development and Innovation  
+79.",,,,,,"Investing; Innovation  
+Research; Development; Innovation",innovation; research development; investing; research,79(CARDINAL)
+"To implement private sector driven Research, Development and 
+Innovation initiative announced in the July Budget, I am now allocating  
+` 20,000 crore.",000 crore,000,crore,,,Research; Development; Innovation; July Budget,research development; announced july; july budget; 20 000,"Research, Development(ORG); the July Budget(EVENT); 20,000(CARDINAL)"
+"Deep Tech Fund of Funds  
+80.",,,,,,Deep Tech Fund; Funds,tech; fund funds; 80; funds,Deep Tech Fund of Funds(ORG); 80(CARDINAL)
+"A Deep Tech Fund of Funds will also be explored to catalyze the next 
+generation startups as a part of this initiative.",,,,,,Deep Tech Fund; Funds,tech; fund funds; startups; funds,
+"PM Research Fellowship  
+81.",,,,,,Research Fellowship,research; pm,PM Research Fellowship(ORG); 81(CARDINAL)
+"In the next five years, under the PM Research Fellowship scheme, we 
+will provide ten thousand fellowships for technological research in IITs and IISc 
+with enhanced financial support.","rs,",",",,,,Research Fellowship,research; technological; iits; thousand,the next five years(DATE); ten thousand(CARDINAL)
+"Gene Bank for Crops Germplasm  
+82.",,,,,,Gene Bank; Crops Germplasm,bank,Gene Bank(ORG); 82(CARDINAL)
+"The 2nd Gene Bank with 10 lakh germplasm lines will be set up for future 
+food and nutritional security.",10 lakh,10,lakh,,,The; Gene Bank,future; lines; 10 lakh; 2nd,2nd(ORDINAL); Gene Bank(ORG); 10(CARDINAL)
+"This will provide conservation support to both 
+public and private sectors for genetic resources.",,,,,,This,public; sectors; private; support,
+"National Geospatial Mission  
+83.",,,,,,National Geospatial Mission,geospatial; national; mission,
+"We will start a National Geospatial Mission to develop foundational 
+geospatial infrastructure and data.",,,,,,National Geospatial Mission,geospatial; data; start; develop,a National Geospatial Mission(ORG)
+Using PM,,,,,,Using,pm,
+"Gati Shakti, this Mission will 
+facilitate modernization of land records, urban planning, and design of 
+infrastructure projects.",,,,,,Gati Shakti; Mission,gati; gati shakti; planning; land,Gati Shakti(PERSON)
+"15  
+ 
+Gyan Bharatam Mission  
+84.",,,,,,Gyan Bharatam Mission,mission; 15,"15(CARDINAL); Gyan Bharatam Mission  
+(PERSON); 84(CARDINAL)"
+"A Gyan Bharatam Mission for survey, documentation and conservation 
+of our manuscript heritage with academic institutions, museums, libraries and 
+private collectors will be undertaken to cover more than 1 crore manuscripts.",1 crore,1,crore,,,Gyan Bharatam Mission,institutions; cover; private; mission,Gyan Bharatam Mission(PERSON); more than 1(CARDINAL)
+"We will set up a National Digital  Repository of Indian knowledge systems for 
+knowledge sharing.  
+85.",,,,,,National Digital  Repository; Indian,digital; indian; national; set,Indian(NORP)
+"Now, I move to Exports as the 4th engine.",,,,,,Now; Exports,exports 4th; engine; exports,4th(ORDINAL)
+"Exports as the 4th engine  
+Export Promotion Mission  
+86.",,,,,,Exports; Export Promotion Mission,export promotion; promotion; exports 4th; engine,4th(ORDINAL)
+"We will set up an Export Promotion Mission, with sectoral and 
+ministerial targets, driven jointly by the Ministries of Commerce, MSME, and 
+Finance.",,,,,Finance,Export Promotion Mission; Ministries; Commerce; Finance,promotion; export promotion; finance; export,the Ministries of Commerce(ORG); MSME(ORG)
+"It will facilitate easy access to export credit, cross -border factoring 
+support, and support to MSMEs to tac kle non -tariff measures in overseas 
+markets.",,,,,,,support; access; msmes; measures,
+"A digital public infrastructure, ‘BharatTradeNet’ (BTN) for international 
+trade will be set -up as a unified platform for trade documentation and 
+financing solutions.",,,,,,,trade; platform; financing; public,BTN(ORG)
+"This will complement the Unified Logistics Interface 
+Platform.",,,,,,"This; Unified Logistics Interface 
+Platform",platform,
+The BTN will be aligned wit h international practices.,,,,,,The,practices; international,BTN(ORG)
+"Support for integration with Global Supply Chains  
+88.",,,,,,Support; Global Supply Chains,chains; supply; global; support,Global Supply Chains(ORG)
+"Support will be provided to develop domestic manufacturing capacities 
+for our economy’s integration with global supply chains.",,,,,,Support,chains; support provided; domestic manufacturing; develop,
+"Sectors will be 
+identified based on objective criteria.",,,,,,Sectors,based; sectors,
+"Facilitation groups with participation of senior officers and industry 
+representatives will be formed for select products and supply chains.",,,,,,Facilitation,chains; groups; senior; facilitation,
+90.,,,,,,,90,90(CARDINAL)
+"Through this, there are huge opportunities related to Industry 4.0, 
+which needs high skills and talent.",,,,,,Through; Industry,opportunities; skills; needs; industry,
+Our youth have both.,,,,,,Our,youth,
+"Our Government  will 
+support the domestic electronic equipment industry to leverage this 
+opportunity for the benefit of the youth.",,,,,,Our Government,electronic; industry; youth; benefit,
+"National Framework for GCC  
+91.",,,,,,National Framework,91; framework; national,
+"A national framework will be formulated as guidance to states for 
+promoting Global Capability Centres in emerging tier 2 cities.",,,,,,Global Capability Centres,capability; cities; promoting; centres,Global Capability Centres(ORG); 2(CARDINAL)
+"This will suggest 
+ 16  
+ 
+measures for enhancing availability of talent and infrastructure, building -
+byelaw reforms, and mechanisms for collaboration with industry.",,,,,,This,availability; industry; 16; measures,16(CARDINAL)
+"Warehousing facility for air cargo  
+92.",,,,,,Warehousing,cargo; warehousing; facility,
+"Our Government will facilitate upgradation of infrastructure and 
+warehousing for air cargo including high value perishable horticulture produce.",,,,,,Our Government,cargo; warehousing; produce; high,
+"Cargo screening and customs protocols will be streamlined and made user -
+friendly.",,,,,,Cargo,cargo; friendly; customs,
+"Reforms as the Fuel  
+93.",,,,,,Reforms; Fuel,fuel; reforms,
+"Now I move to ‘Reforms as the Fuel’, and detail specific reforms.",,,,,,Now; Reforms; Fuel,reforms; fuel; specific,
+"Tax Reforms  
+94.",,,,,,Tax Reforms,tax reforms; reforms; tax,
+"Over the past 10 years, our Government  has implemented several 
+reforms for convenience of tax payers, such as (1) faceless assessment, (2) tax 
+payers charter, (3) faster returns, (4) almost 99 per cent returns being on self -
+assessment, and (5) Vivad se Vishwas scheme.","rs,",",",,,,Over; Government; Vivad; Vishwas,returns; payers; tax payers; assessment,the past 10 years(DATE); Government(ORG); 1(CARDINAL); 2(CARDINAL); 3(CARDINAL); 4(CARDINAL); 5(CARDINAL); Vivad se Vishwas(PERSON)
+"Continuing these efforts,   
+I reaffirm the commitment of the tax department to “trust first, scrutinize later”.",,,,,,Continuing,commitment; efforts; trust; tax,first(ORDINAL)
+I also propose to introduce the new income -tax bill next week.,,,,,,,propose introduce; introduce; income tax; new,next week(DATE)
+"I will detail the 
+indirect tax reforms and changes in direct taxes in Part B.   
+Financial Sector Reforms and Development  
+FDI in Insurance Sector  
+95.",,,,,,Part; Financial Sector Reforms; Development; Insurance Sector,reforms; sector; financial sector; tax reforms,
+"The FDI limit for the insurance sector will be raised from 74 to 100 per 
+cent.",,,,,,The,raised; 100 cent; insurance; 100,FDI(ORG); 74 to 100(CARDINAL)
+"This enhanced limit will be available for those companies which invest the 
+entire premium in India.",,,,,,This; India,entire; companies; available; enhanced,India(GPE)
+"The current guardrails and conditionalities associated 
+with foreign investmen t will be reviewed and simplified.",,,,,,The,foreign; current,
+"Expanding Services of India Post Payment Bank  
+96.",,,,,,Expanding Services; India Post Payment Bank,post payment; india post; bank; payment,Expanding Services of(ORG)
+"The services of India Post Payment Bank will be deepened and 
+expanded in rural areas.",,,,,,The; India Post Payment Bank,post payment; rural areas; expanded; areas,India Post Payment Bank(ORG)
+"Credit Enhancement Facility by NaBFID  
+97.",,,,,,Credit Enhancement Facility,enhancement; facility; credit,Credit Enhancement Facility(ORG)
+"NaBFID will set up a ‘Partial Credit Enhancement Facility’ for corporate 
+bonds for infrastructure.",,,,,,Partial Credit Enhancement Facility,enhancement; facility; infrastructure; set,
+"Grameen Credit Score  
+98.",,,,,,Grameen Credit Score,credit,Grameen Credit Score(ORG); 98(CARDINAL)
+"Public Sector Banks will develop ‘Grameen Credit Score’ framework to 
+serve the credit needs of SHG members and people in rural areas.",,,,,,Public Sector Banks; Grameen Credit Score,credit; banks; rural areas; public,Grameen Credit Score(ORG); SHG(ORG)
+"17  
+ 
+Pension Sector  
+99.",,,,,,Pension Sector,99; pension; 17; sector,17(CARDINAL)
+"A forum for regulatory coordination and development of pension 
+products will be set up.",,,,,,,pension; regulatory; products; set,
+"KYC Simplification  
+100.",,,,,,Simplification,100,"KYC Simplification  
+100(ORG)"
+"To implement the earlier announcement on simplifying the KYC 
+process, the revamped Central KYC Registry will be rolled out in 2025.",,,,,,Central; Registry,process; earlier; revamped; central,KYC(ORG); Central KYC Registry(ORG); 2025(DATE)
+"We will 
+also implement a streamlined system for periodic updating.",,,,,,,implement,
+"Merger of Companies  
+101.",,,,,,Merger; Companies,companies,101(CARDINAL)
+"Requirements and procedures for speedy approval of company mergers 
+will be rationalized.",,,,,,Requirements,rationalized; company,
+"The scope for fast -track mergers will also be widened and 
+the process made simpler.",,,,,,The,process; scope; track,
+"Bilateral Investment Treaties  
+102.",,,,,,Bilateral Investment Treaties,investment,Bilateral Investment Treaties(ORG); 102(CARDINAL)
+"As proposed in the Interim Budget, we signed Bilateral Investment 
+Treaties (BIT) with two countries in 2024.",,,,,,"Interim Budget; Bilateral Investment 
+Treaties",interim; 2024; budget; investment,"the Interim Budget(ORG); Bilateral Investment 
+Treaties(ORG); two(CARDINAL); 2024(DATE)"
+"To encourage sustained foreign 
+investment and in the spirit of ‘first develop India’, the current model BIT will 
+be revamped and made more investor -friendly.",,,,,,India,revamped; friendly; foreign; spirit,first(ORDINAL); India(GPE); BIT(ORG)
+"Regulatory Reforms  
+103.",,,,,,Regulatory Reforms,regulatory reforms; regulatory; reforms,103(CARDINAL)
+"In the last ten years in several aspects, including financial and non -
+financial, our Government  has demonstrated a steadfast commitment to ‘Ease 
+of Doing Business’.",,,,,,Government; Ease; Doing Business,financial; commitment; ease doing; doing,the last ten years(DATE); Government(ORG)
+"We are determined to ensure that our regulations must 
+keep up with technological innovations and global policy developments.",,,,,,,technological; ensure; regulations; policy,
+"A 
+light -touch regulatory framework based on principles and tr ust will unleash 
+productivity and employment.",,,,,,,touch; based; regulatory; framework,
+"Through this framework, we will update 
+regulations that were made under old laws.",,,,,,Through,laws; regulations; framework,
+"To develop this modern, flexible,  
+people -friendly, and trust -based regulatory framework appropriate for the 
+twenty -first century, I propose four specific measures:  
+High Level Committee for Regulatory Reforms  
+104.",,,,,,High Level Committee; Regulatory Reforms,regulatory; committee; regulatory reforms; friendly,twenty -first century(DATE); four(CARDINAL)
+"A High -Level Committee for Regulatory Reforms will be set up for a 
+review of all non -financial sector regulations, certifications, licenses, and 
+permissions.",,,,,,High; Level Committee; Regulatory Reforms,committee; financial sector; regulatory reforms; regulations,
+"The committee will be expected make recommendations within a 
+ 18  
+ 
+year.",,,,,,The,committee; expected; 18; make,"18  
+ 
+year(DATE)"
+"The objective is to strengthen trust -based economic governance and take 
+transformational measures to enhance ‘ease of doing business’, especially in 
+matters of inspections and compliances.",,,,,,The,especially; governance; ease doing; based,
+"States will be encouraged to join in 
+this endeavour.",,,,,,States,encouraged; states,
+"Investment Friendliness Index of States  
+105.",,,,,,Investment Friendliness Index; States,states; investment,105(CARDINAL)
+"An Investment Friendliness Index of States will be launched in 2025 to 
+further the spirit of competitive cooperative federalism.",,,,,,Investment Friendliness Index; States,cooperative; competitive; spirit; launched,2025(DATE)
+"FSDC Mechanism  
+106.",,,,,,Mechanism,mechanism,106(CARDINAL)
+"Under the Financial Stability and Development Council, a mechanism 
+will be set up to evaluate impact of the current financial regulations and 
+subsidiary instructions.",,,,,,Under; Financial Stability; Development Council,financial; mechanism; regulations; current,the Financial Stability and Development Council(ORG)
+"It will also formulate a framework to enhance their 
+responsiveness and development of the  financial sector.",,,,,,,financial sector; enhance; framework; financial,
+"Jan Vishwas Bill 2.0  
+107.",,,,,,Jan Vishwas Bill,107; jan; vishwas,Jan Vishwas(PERSON); 2.0(CARDINAL); 107(CARDINAL)
+"In the Jan Vishwas Act 2023, more than 180 legal provisions were 
+decriminalized.",,,,,,Jan Vishwas Act,jan; 2023; vishwas; provisions,2023(DATE); more than 180(CARDINAL)
+"Our Government  will now bring up the Jan Vishwas Bill 2.0 to 
+decriminalize more than 100 provisions in various laws.",,,,,,Our Government; Jan Vishwas Bill,various; laws; jan; vishwas,more than 100(CARDINAL)
+"Fiscal Policy  
+108.",,,,,,Fiscal Policy,fiscal policy; fiscal; policy,108(CARDINAL)
+Now I move to fiscal policy matters.,rs.,.,,,,Now,fiscal policy; fiscal; policy,
+"Fiscal Consolidation  
+109.",,,,,,Fiscal Consolidation,fiscal,109(CARDINAL)
+"In the July Budget, I had committed to staying the course for fiscal 
+consolidation.",,,,,,July Budget,july budget; fiscal; july; budget,the July Budget(EVENT)
+"Our endeavour will be to keep the fiscal deficit each year such 
+that the Central Government debt remains on a declining path as a percentage 
+of the GDP.",,,,,,Our; Central Government,gdp; central government; deficit; fiscal deficit,each year(DATE); the Central Government(ORG)
+"The roadmap for the  next 6 years has been detailed in the FRBM 
+statement.",,,,,,The,statement; years,next 6 years(DATE); FRBM(ORG)
+"Revised Estimates 2024 -25 
+110.",,,,,,Revised Estimates,revised; 2024; 25,2024(DATE); 110(CARDINAL)
+"The Revised  Estimate  of the total  receipts  other  than  borrowings  is  
+` 31.47  lakh crore,  of which  the net tax receipts are ` 25.57  lakh crore.",47  lakh,47,lakh,,,The Revised  Estimate,receipts; lakh crore; crore; lakh,31.47(CARDINAL); 25.57(CARDINAL)
+"The 
+Revised Estimate of the total expenditure is ` 47.16  lakh crore,  of which the  
+capital  expenditure  is about  ` 10.18  lakh crore.",16  lakh,16,lakh,,,"The 
+Revised Estimate",expenditure; lakh crore; crore; lakh,47.16(CARDINAL); 10.18(CARDINAL)
+The Revised Estimate of the fiscal deficit is 4.8 per cent of GDP.,,,,,,The Revised Estimate,estimate; revised estimate; gdp; deficit,The Revised Estimate of the fiscal(ORG); 4.8 per cent(MONEY)
+"19  
+ 
+Budget Estimates 2025 -26 
+112.",,,,,,Budget Estimates,19; 112; 2025 26; 26,19(CARDINAL); 2025(DATE); 112(CARDINAL)
+"Coming to 2025 -26, the total receipts other than  borrowings  and the 
+total expenditure are estimated at ` 34.96  lakh crore and ` 50.65  lakh crore 
+respectively.",96  lakh,96,lakh,,,Coming,total; lakh crore; crore; lakh,2025(DATE); 34.96(CARDINAL); 50.65(CARDINAL)
+The net tax receipts are estimated at ` 28.37  lakh crore.,37  lakh,37,lakh,,,The,net; receipts; estimated; 37,28.37(CARDINAL)
+The fiscal  deficit  is estimated  to be 4.4 per cent  of GDP .,,,,,,The,gdp; deficit; fiscal deficit; estimated,4.4 per cent(MONEY)
+"To finance the fiscal deficit, the net market borrowings from dated 
+securities are estimated at ` 11.54 lakh crore.",54 lakh,54,lakh,,,,54; net; deficit; borrowings,11.54(CARDINAL)
+"The balance financing is expected 
+to come from small savings and other sources.",,,,,,The,expected; financing; savings; come,
+"The gross market borrowings 
+are estimated at ` 14.8 2 lakh crore.",2 lakh,2,lakh,,,The,borrowings; estimated; 14; lakh crore,14.8 2(CARDINAL)
+"I will now move  to Part  B. 
+ 
+  
+ 20  
+ 
+PART B  
+Indirect Taxes  
+115.",,,,,,Part; Indirect Taxes,115; indirect taxes; indirect; taxes,20(CARDINAL); 115(CARDINAL)
+"My proposals relating to Customs aim to rationalize tariff structure and 
+address duty inversion.",,,,,,Customs,address; rationalize; relating; structure,Customs(ORG)
+"These will also support domestic manufacturing and 
+value addition, promote exports, facilitate trade and provide relief to common 
+people.",,,,,,These,domestic manufacturing; relief; value addition; trade,
+"Rationalisation of Customs Tariff Structure for Industrial Goods  
+116.",,,,,,Rationalisation; Customs Tariff Structure; Industrial Goods,customs tariff; structure; customs; goods,
+"As a part of comprehensive review of Customs rate structure 
+announced in July 2024 Budget, I propose to:  
+(i) remove seven tariff rates.",,,,,,Customs; July; Budget,remove; tariff rates; 2024 budget; announced july,Customs(ORG); July 2024(DATE); seven(CARDINAL)
+"This is over and above the seven tariff 
+rates removed in 2023 -24",,,,,,This,tariff rates; 2023; 24; rates,seven(CARDINAL); 2023(DATE)
+budget.,,,,,,,budget,
+"After this, there will be only eight 
+remaining tariff rates including ‘zero’ rate.",,,,,,After,tariff rates; rates; including; rate,only eight(CARDINAL); zero(CARDINAL)
+"(ii) apply appropriate cess to broadly maintain effective duty incidence 
+except on a few items, where such incidence will reduce marginally.",,,,,,,cess; appropriate; apply; items,
+(iii) levy not more than one cess or surcharge.,,,,,,,surcharge; cess; iii,levy(PERSON); more than one(CARDINAL)
+"Therefore, I propose to 
+exempt Social Welfare Surcharge on 82 tariff lines that are subject 
+to a cess.",,,,,,Therefore; Social Welfare Surcharge,propose exempt; tariff lines; surcharge; lines,Social Welfare Surcharge(ORG); 82(CARDINAL)
+I shall now take up sector specific proposals.,,,,,,,specific; proposals; shall; sector,
+"Relief on import of Drugs/Medicines  
+118.",,,,,,Relief; Drugs; Medicines,drugs medicines; import; relief; drugs,Drugs/Medicines(ORG); 118(CARDINAL)
+"To provide relief to patients, particularly those suffering from cancer, 
+rare diseases and other severe chronic diseases, I propose to add 36 lifesaving 
+drugs and medicines to the list of medicines fully exempted from Basic Customs 
+Duty (BCD).",,,,,,"Basic Customs 
+Duty",medicines; cancer; fully exempted; drugs medicines,"36(CARDINAL); Basic Customs 
+Duty(ORG); BCD(ORG)"
+"I also pro pose to add 6 lifesaving medicines to the list attracting 
+concessional customs duty of 5%.",,,,5%,,,pro pose; pro; pose; concessional,6(CARDINAL); 5%(PERCENT)
+"Full exemption and concessional duty will 
+also respectively apply on the bulk drugs for manufacture of the above.",,,,,,Full,respectively; bulk; bulk drugs; concessional,
+"Specified drugs and medicines under Patient Assistance Programmes 
+run by pharmaceutical companies are fully exempt from BCD, provided the 
+medicines are supplied free of cost to patients.",,,,,,Specified; Patient Assistance Programmes,medicines; fully exempt; programmes; drugs medicines,Patient Assistance Programmes(WORK_OF_ART); BCD(ORG)
+"I propose to add 37 more 
+medicines along with 13 new patient assistance programmes.",,,,,,,programmes; propose add; assistance; 37,37(CARDINAL); 13(CARDINAL)
+"21  
+ 
+Support to Domestic Manufacturing and Value addition  
+Critical Minerals  
+120.",,,,,,Support; Domestic Manufacturing; Value; Critical Minerals,domestic manufacturing; 21; critical; critical minerals,21(CARDINAL); Domestic Manufacturing(ORG); Value(ORG); 120(CARDINAL)
+"In the July 2024 Budget, I had fully exempted BCD on 25 critical minerals 
+that are not domestically available.",,,,,,July; Budget,fully exempted; 2024 budget; critical; critical minerals,the July 2024(DATE); BCD(ORG); 25(CARDINAL)
+"I had also reduced BCD of 2 other such 
+minerals to provide a major fillip to their processing especially by MSMEs.",,,,,,,especially; reduced; processing; minerals,BCD(ORG); 2(CARDINAL)
+"Now, 
+I propose to fully exempt  cobalt powder and waste, the scrap of lithium -ion 
+battery, Lead, Zinc and 12 more critical minerals.",,,,,,Now; Lead; Zinc,fully exempt; cobalt; scrap; waste scrap,"Lead, Zinc(ORG); 12(CARDINAL)"
+"This will help secure their 
+availability for manufacturing in India and promote more jobs for our youth.",,,,,,This; India,availability; help; youth; promote,India(GPE)
+"Textiles  
+121.",,,,,,Textiles,textiles,121(CARDINAL)
+"To promote domestic production of technical textile products such as 
+agro -textiles, medical textiles and geo textiles at competitive prices, I propose 
+to add two more types of shuttle -less looms to the list of fully exempted textile 
+machinery.",,,,,,,textiles; textile; technical; competitive,geo(PRODUCT); two(CARDINAL)
+"I also pro pose to revise the BCD rate on knitted fabrics covered by 
+nine tariff lines from “10% or 20%” to “20% or ` 115 per kg, whichever is 
+higher”.",,,,10%,,,20; tariff lines; 115; pro pose,BCD(ORG); nine(CARDINAL); 10% or 20%(PERCENT); 20%(PERCENT); 115(CARDINAL)
+"Electronic Goods  
+122.",,,,,,Electronic Goods,electronic; goods,122(CARDINAL)
+"In line with our ‘Make in India’ policy, and to rectify inverted duty 
+structure, I propose to increase the BCD on Interactive Flat Panel Display (IFPD) 
+from 10% to 20% and reduce the BCD to 5% on Open Cell and other 
+components.",,,,10%,,Make in India; Make; India; Interactive Flat Panel Display; Open Cell,bcd; flat panel; interactive flat; interactive,India(GPE); BCD(ORG); Interactive Flat Panel(ORG); IFPD(ORG); 10% to 20%(PERCENT); BCD(ORG); 5%(PERCENT)
+"In 2023 -24 Budget, for the manufacture of Open Cells of LCD/LED TVs, 
+I had reduced the BCD on parts of Open Cells from 5% to 2.5% .",,,,5%,,Budget; Open Cells,open cells; cells; open; reduced,2023(DATE); Budget(ORG); Open Cells of(ORG); BCD(ORG); Open Cells(ORG); 5% to(PERCENT); 2.5%(PERCENT)
+"To further boost 
+the manufacture of such Open Cells, the BCD on these parts will now stand 
+exempted.",,,,,,Open Cells,open cells; cells; open; exempted,Open Cells(PERSON); BCD(ORG)
+"Lithium Ion Battery  
+124.",,,,,,Lithium Ion Battery,lithium; lithium ion; ion battery; ion,124(CARDINAL)
+"To the list of exempted capital goods, I propose to add 35 additional 
+capital goods for EV battery manufacturing, and 28 additional capital goods for 
+mobile phone battery manufacturing.",,,,,,,capital goods; capital; goods; battery,35(CARDINAL); EV(ORG); 28(CARDINAL)
+"This will boost domestic manufacture of 
+lithium -ion battery, both for mobile phones and electric vehicles.",,,,,,This,mobile; lithium; lithium ion; ion,
+"Shipping Sector  
+125.",,,,,,Shipping Sector,125; sector,125(CARDINAL)
+"Considering that shipbuilding has a long gestation period, I propose to 
+continue the exemption of BCD on raw materials, components, consumables 
+or parts for the manufacture of ships for another ten years.",rs.,.,,,,Considering,components; shipbuilding; ships; long,BCD(ORG); another ten years(DATE)
+"I also propose the 
+same dispensation for ship break ing to make it more competitive.",,,,,,,competitive; ship; make; propose,
+"22  
+ 
+Telecommunication  
+126.",,,,,,Telecommunication,22,"22(CARDINAL); Telecommunication  
+126(EVENT)"
+"To prevent classification disputes, I propose to reduce the BCD from 
+20% to 10% on Carrier Grade ethernet switches to make it at par with Non -
+Carrier Grade ethernet switches.",,,,20%,,Carrier Grade; Non,grade; ethernet; ethernet switches; switches,BCD(ORG); 20% to 10%(PERCENT); Carrier Grade(PERSON); Carrier Grade(PERSON)
+"Export Promotion  
+Handicraft Goods  
+127.",,,,,,"Export Promotion  
+Handicraft Goods",promotion; export promotion; export; goods,
+"To facilitate exports of handicrafts, I propose to extend the time period 
+for export from six months to one year, further extendable by another three 
+months, if required.",,,,,,,months; required; handicrafts; extend time,"six months to one year(DATE); another three 
+months(DATE)"
+"I also propose to add nine items to the list of duty -free 
+inputs.",,,,,,,duty free; inputs; propose add; items,nine(CARDINAL)
+"Leather sector  
+128.",,,,,,Leather,leather; sector,128(CARDINAL)
+"I propose to fully exempt BCD on Wet Blue leather to facilitate imports 
+for domestic value addition and employment.",,,,,,Wet Blue,fully exempt; fully; value addition; exempt,BCD(ORG); Wet Blue(ORG)
+"I also propose to exempt crust 
+leather from 20% export duty to facilitate exports by small tanners.",rs.,.,,20%,,,propose exempt; exempt; small; leather,20%(PERCENT)
+"Marine products  
+129.",,,,,,Marine,products,129(CARDINAL)
+"To enhance India's competitiveness in the global seafood market, I 
+propose to reduce BCD from 30% to 5% on  Frozen Fish Paste (Surimi) for 
+manufacture and export of its analogue products.",,,,30%,,India; Frozen Fish Paste; Surimi,surimi; competitiveness; propose reduce; reduce bcd,India(GPE); BCD(ORG); 30% to 5%(PERCENT); Frozen Fish Paste(PERSON)
+"I also propose to reduce BCD 
+from 15% to 5% on fish hydrolysate for manufacture of fish and   shrimp feeds.",,,,15%,,,fish; propose reduce; reduce bcd; reduce,BCD(ORG); 15% to 5%(PERCENT)
+"Domestic MROs for Railway Goods  
+130.",,,,,Railway Goods,Domestic; Railway Goods,railway goods; railway; domestic; goods,Railway Goods(ORG); 130(CARDINAL)
+"In July 2024 Budget, to promote development of domestic MROs for 
+aircraft and ships, I had extended the time limit for export of foreign origin 
+goods that were imported for repairs, from 6 months to one year and further 
+extendable by one year.","rs,",",",,,,July; Budget,year; goods imported; 2024 budget; year extendable,July 2024(DATE); 6 months to one year(DATE); one year(DATE)
+"I now pro pose to extend the same dispensation for 
+railway goods.",,,,,,,pose; pro pose; pro; railway goods,
+"Trade facilitation  
+Time limit for Provisional Assessment  
+131.",,,,,,Trade; Time; Provisional Assessment,trade facilitation; provisional assessment; facilitation; provisional,131(CARDINAL)
+"Presently, the Customs Act, 1962 does not provide any time limit to 
+finalize Provisional Assessments leading to uncertainty and cost to trade.",,,,,,Presently; Customs Act; Provisional Assessments,presently; provisional; 1962; customs act,the Customs Act(LAW); 1962(DATE); Provisional Assessments(ORG)
+"As a 
+measure of promoting ease of doing business, I propose to fix a time -limit of 
+two years, extendable by a y ear, for finalising the provisional assessment.","rs,",",",,,,,promoting; limit years; provisional assessment; extendable,two years(DATE)
+"23  
+ 
+ Voluntary Compliance  
+132.",,,,,,Voluntary Compliance,23; voluntary compliance; voluntary; compliance,23(CARDINAL); 132(CARDINAL)
+"I propose to introduce a new provision that will enable importers or 
+exporters, after clearance of goods, to voluntarily declare material facts and 
+pay duty with interest but without penalty.","rs,",",",,,,,clearance; propose introduce; exporters; pay,
+"This will incentivise voluntary 
+compliance.",,,,,,This,voluntary compliance; voluntary; compliance,
+"However, this wil l not apply in cases where department has 
+already initiated audit or investigation proceedings.",,,,,,However,proceedings; apply; cases,
+"Extended Time for End Use  
+133.",,,,,,Extended Time; End Use,end use; extended; use; end,
+"For industry to better plan their imports, I propose to extend the time 
+limit for the end -use of imported inputs in the relevant rules, from six months 
+to one year.",,,,,,For,extend time; propose extend; imported; inputs,six months(DATE); one year(DATE)
+"This will provide operational flexibility in view of cost and 
+uncertainty of supply.",,,,,,This,cost; supply; provide,
+"Furth er, such importers will now have to file only 
+quarterly statements instead of a monthly statement.",,,,,,Furth,quarterly; file; statement,quarterly(DATE); monthly(DATE)
+"Direct Taxes  
+I now come to my Direct tax proposals.",,,,,,Direct Taxes; Direct,direct; tax proposals; direct taxes; come,
+"In Part A, I have briefly underlined Taxation Reforms as one of key 
+reforms to realize our vision of Viksit Bharat.",,,,,,Part; Taxation Reforms; Viksit Bharat,reforms; viksit bharat; viksit; bharat,Taxation Reforms(ORG); Viksit Bharat(ORG)
+"In respect of criminal law, Our 
+Government had earlier ushered in Bharatiya Nyaya Sanhita replacing 
+Bharatiya Danda Sanhita.",,,,,,"Our 
+Government; Bharatiya Nyaya Sanhita; Bharatiya Danda Sanhita",bharatiya; earlier; respect; government,Bharatiya Nyaya(ORG); Bharatiya Danda Sanhita(ORG)
+"I am happy to inform this August House and the 
+country that the new income -tax bill will carry forward the same spirit of 
+“Nyaya”.",,,,,,August House; Nyaya,happy; house; carry; august,August(DATE); House(ORG); Nyaya(WORK_OF_ART)
+"The new bill will be clear and direct in text with close to half of the 
+present law, in terms of both chapters and words.",,,,,,The,words; terms; present; direct,close to half(CARDINAL)
+"It will be simple to 
+understand for taxpayers and tax administration, leading to tax certainty and 
+reduced litigation.",,,,,,,tax; tax certainty; understand; reduced,
+"Reforms, however, are not a destination.",,,,,,Reforms,destination; reforms,
+"They are a means to achieve 
+good governance for our people and economy.",,,,,,They,good governance; achieve; good; governance,
+"Providing good governance 
+primarily involves being responsive.",,,,,,Providing,good governance; good; providing; governance,
+"The Thirukkural captures this in Verse 542, 
+which reads:",,,,,,The Thirukkural; Verse,,Thirukkural(ORG); Verse 542(PERSON)
+"vaanokki vaalum ulakellaam mannavan  
+koalnokki vaalung kuti  
+Meaning:  
+Just as living beings live expecting rains,  
+Citizens live expecting good governance.",,,,,,Meaning; Just; Citizens,good governance; good; citizens; governance,
+"24  
+ 
+Our Government  is committed to keeping an ear to the ground and a finger on 
+the pulse, and responding while balancing our nation -building efforts.",,,,,,Our Government,efforts; 24; building; government,24(CARDINAL)
+"The 
+following measures will detail just how our Government  under the guidance of 
+PM Modi has taken steps to understand and address the needs voiced by our 
+citizens.",,,,,,The; Government; Modi,understand; citizens; address; modi,
+My tax proposals are guided by this spirit.,,,,,,,tax proposals; spirit; proposals; tax,
+"The objectives of my proposals are as follows:  
+(i) Personal Income Tax reforms with special focus on middle class  
+(ii) Rationalization of TDS/TCS for easing difficulties  
+(iii) Encouraging voluntary compliance  
+(iv) Reducing compliance burden  
+(v) Ease of doing business  
+(vi) Employment and investment  
+I will come to my proposal on personal income tax towards the end.",,,,,,The; Personal Income Tax; Rationalization; Encouraging; Reducing; Ease; Employment,personal income; personal; income tax; compliance,TDS(ORG)
+"TDS/TCS rationalization for easing difficulties  
+137.",,,,,,,easing difficulties; easing; difficulties; rationalization,TDS(ORG); TCS(ORG); 137(CARDINAL)
+"I propose to rationalize Tax Deduction at Source (TDS) by reducing the 
+number of rates and thresholds above which TDS is deducted.",,,,,,Tax Deduction; Source,tds; tax deduction; rationalize; reducing,TDS(ORG); TDS(ORG)
+"Further, 
+threshold amounts for tax deduction will be increased for better clarity and 
+uniformity.",,,,,,Further,tax deduction; clarity; threshold; increased,
+"The limit for tax deduction  on interest for senior citizens is being  
+doubled from the present ` 50,000 to ` 1 lakh.",1 lakh,1,lakh,,,The,tax deduction; citizens; senior; present,"50,000(CARDINAL); 1(CARDINAL)"
+"Similarly, the annual limit of ` 
+2.40 lakh for TDS on rent is being  increased to ` 6 lakh.",40 lakh,40,lakh,,,Similarly,lakh; rent; annual; increased,annual(DATE); 2.40(CARDINAL); TDS(ORG); 6(CARDINAL)
+"This will reduce the 
+number of transactions liable to TDS, thus benefitting small tax payers 
+receiving small payments.  
+138.",,,,,,This,small; transactions; number; payers,TDS(ORG); 138(MONEY)
+"The threshold to collect tax at source (TCS) on remittances under RBI’s 
+Liberalized Remittance Scheme (LRS)  is proposed to be  increased from ` 7 lakh 
+to ` 10 lakh.",7 lakh,7,lakh,,,The; Liberalized Remittance Scheme,lakh; tax source; collect; remittance,TCS(ORG); RBI(ORG); Liberalized Remittance Scheme(PERSON); 7(CARDINAL); 10(CARDINAL)
+"I also propose to remove TCS on remittances for education 
+purposes, where such remittance is out of a loan taken from a specified 
+financial institution.",,,,,,,remove; remittance; loan; institution,TCS(ORG)
+"Both TDS and TCS  are being applied on any transaction relating to sale 
+of goods.",,,,,,Both,transaction; relating; tds tcs; tds,TDS(ORG); TCS(ORG)
+"To prevent such compliance difficulties, I propose to omit the TCS.",,,,,,,omit; difficulties; compliance; tcs,TCS(ORG)
+"I 
+also propose that the provisions of the higher TDS deduction will now apply 
+only in non -PAN cases.",,,,,,,higher; deduction; apply; cases,TDS(ORG); -PAN(PERSON)
+"25  
+ 
+140.",,,,,,,25,25(CARDINAL); 140(CARDINAL)
+"In July 2024, the delay for payment of TDS up to the due date of filing 
+statement was decriminalized.",,,,,,July,filing; statement; july 2024; payment,July 2024(DATE); TDS(ORG)
+"I propose to provide the same relaxation to TCS 
+provisions as well.",,,,,,,provisions; tcs; propose; provide,TCS(ORG)
+"Encouraging Voluntary Compliance  
+141.",,,,,,Encouraging Voluntary Compliance,encouraging voluntary; encouraging; voluntary compliance; voluntary,141(CARDINAL)
+"The Government under the leadership of Prime Minister Modi believes 
+in “Sabka Saath, Sabka Vikas, Sabka Vishwas and Sabka Prayas”.",,,,,,The Government; Prime Minister Modi; Sabka Saath; Sabka Vikas; Sabka Vishwas; Sabka Prayas,sabka; modi; prime; prime minister,Modi(PERSON); Sabka Saath(PERSON); Sabka Vikas(PERSON); Sabka Vishwas(PERSON); Sabka Prayas(PERSON)
+"In line with 
+this, we brought in updated return facility in 2022 for voluntary compliance by 
+taxpayers who had omitted to report their correct income.",,,,,,,2022; brought; updated return; line,2022(DATE)
+"Our trust in 
+taxpayers was proved right.",,,,,,Our,taxpayers; trust,
+"Nearly 90 lakh taxpayers voluntarily updated their 
+incomes by paying addition al tax.",90 lakh,90,lakh,,,Nearly,nearly; incomes; 90; taxpayers,Nearly 90(CARDINAL)
+"Taking this trust further, I now propose to 
+extend the time -limit to file updated returns  for any assessment year , from the 
+current limit of two years, to four years.","rs,",",",,,,Taking,limit; years; returns; file updated,two years(DATE); four years(DATE)
+"Reducing Compliance Burden  
+142.",,,,,,Reducing Compliance Burden,reducing compliance; reducing; compliance burden; burden,142(CARDINAL)
+"I propose to reduce the compliance burden for small charitable 
+trusts/institutions by increasing their period of registration from 5 years to 10 
+years.",rs.,.,,,,,years; trusts institutions; charitable; trusts,"5 years(DATE); 10 
+years(DATE)"
+"It is also proposed that disproportionate consequences do not arise for 
+minor defaults, such as incomple te applications filed by charitable entities.",,,,,,,charitable; entities; applications; minor,
+"Presently tax -payers can claim the annual value of self -occupied 
+properties as nil only on the fulfilment of certain conditions.",,,,,,Presently,certain conditions; presently; annual value; occupied,annual(DATE)
+"Considering the 
+difficulties faced by taxpayers, it is proposed to allow the benefit of two such 
+self-occupied properties witho ut any condition.","rs,",",",,,,Considering,condition; occupied; allow; difficulties,two(CARDINAL)
+"Ease of Doing Business  
+144.",,,,,,Ease; Doing Business,ease doing; doing business; doing; ease,144(CARDINAL)
+"To streamline the process of transfer pricing and to provide an 
+alternative to yearly examination, I propose to introduce a scheme for 
+determining arm's length price of international transaction for a block period 
+of three years.",rs.,.,,,,,transfer pricing; pricing; price; process,three years(DATE)
+"This will be in line with global best practices.  
+145.",,,,,,This,best; line; practices; global,145(CARDINAL)
+"With a view to reduce litigation and provide certainty in international 
+taxation, the scope of safe harbour rules is being expanded.",,,,,,With,scope; expanded; certainty; rules,
+"A number of senior and very senior citizens have very old National 
+Savings Scheme accounts.",,,,,,"National 
+Savings Scheme",senior; citizens; accounts; savings,"National 
+Savings Scheme(ORG)"
+"As interest is no longer payable on such accounts, I 
+propose to exempt withdrawals made from NSS by individuals on or after the 
+29th of August, 2024.",,,,,,August,withdrawals; propose exempt; august; accounts,"NSS(ORG); the 
+29th of August, 2024(DATE)"
+"I am also prop osing to allow similar treatment to NPS 
+Vatsalya accounts as is available to normal NPS accounts, subject to overall 
+limits.",,,,,,Vatsalya,nps; accounts; vatsalya; limits,NPS(ORG); NPS(ORG)
+"26  
+ 
+147.",,,,,,,26,26(CARDINAL); 147(CARDINAL)
+"In my speech in July 2024, I had promised that all processes including 
+giving effect to appellate orders shall be digitalized and made paper -less over 
+the next two years.",rs.,.,,,,July,appellate; giving; july 2024; effect,July 2024(DATE); the next two years(DATE)
+"I am happy to announce that digitalization is being made 
+operational.",,,,,,,happy; announce,
+"In July 2024, we brought in the Vivad Se Vishwas Scheme to resolve 
+income tax disputes pending in appeal.",,,,,,July; Vivad; Vishwas Scheme,brought; vishwas; july 2024; income tax,July 2024(DATE); Vivad Se Vishwas Scheme(PERSON)
+"The scheme has received a great 
+response, with nearly 33,000 tax payers having availed of this scheme to settle 
+their disputes.",,,,,,The,scheme; 000 tax; nearly; great,"nearly 33,000(CARDINAL)"
+"Employment and Investment  
+149.",,,,,,Employment; Investment,employment investment; employment; investment,149(CARDINAL)
+I have a few proposals to promote investment and employment.,,,,,,,proposals; promote; employment; investment,
+"Tax certainty for electronics manufacturing Schemes  
+150.",,,,,,Tax; Schemes,tax certainty; certainty; electronics manufacturing; schemes,Schemes(ORG); 150(CARDINAL)
+"It is proposed to provide a presumptive taxation regime for non -
+residents who provide services to a resident company that is establishing or 
+operating an electronics manufacturing facility.",,,,,,,provide; presumptive; presumptive taxation; non residents,
+"I further propose to introduce 
+a safe harbour for tax certainty fo r non -residents who store components for 
+supply to specified electronics manufacturing units.",,,,,,,tax certainty; components; propose introduce; residents,
+"Tonnage Tax Scheme for Inland Vessels  
+151.",,,,,,Tonnage Tax Scheme; Inland Vessels,inland; inland vessels; vessels; tonnage tax,151(CARDINAL)
+Presently the tonnage tax scheme is available to only sea going ships.,,,,,,Presently,presently; ships; tonnage tax; tonnage,
+"The benefits of existing tonnage tax scheme are proposed to be extended to 
+inland vessels registered under the Indian Vessels Act, 2021 to promote inland 
+water transport in the country.",,,,,,The; Indian Vessels Act,inland; vessels; transport; inland vessels,the Indian Vessels Act(LAW); 2021(DATE)
+"Extension for incorporation of Start -Ups 
+152.",,,,,,Extension; Start; Ups,ups; start; extension,Start(PRODUCT); 152(CARDINAL)
+We continue to support the Indian start -up eco -system.,,,,,,Indian,start; indian; support,Indian(NORP)
+"I propose to 
+extend the period of incorporation by 5 years to allow the benefit available to 
+start -ups which are incorporated before 1.4.2030.",,,,,,,ups; incorporated; allow; propose extend,5 years(DATE); 1.4.2030(CARDINAL)
+"International Financial Services Centre (IFSC)  
+153.",,,,,,International Financial Services Centre,centre; international; ifsc; services,International Financial Services Centre(ORG); IFSC(ORG); 153(CARDINAL)
+"In order to attract and promote additional activities in the IFSC, I am 
+inter alia  proposing specific benefits to ship -leasing units, insurance offices and 
+treasury centres of global companies which are set up in IFSC.",,,,,,,ifsc; treasury; leasing; ship leasing,IFSC(ORG); inter alia(PERSON); IFSC(ORG)
+"Further, to claim 
+benefits, the cut -off date for commencement in IFSC has also been extended 
+by five years to 31.3.203 0.",,,,,,Further,commencement; cut; claim; benefits,IFSC(ORG); five years(DATE)
+"27  
+ 
+Alternate Investment Funds (AIFs)  
+154.",,,,,,Alternate Investment Funds,27; funds; investment,27(CARDINAL); Alternate Investment Funds(ORG); 154(CARDINAL)
+"Category I and category II AIFs are undertaking investments in 
+infrastructure and other such sectors.",rs.,.,,,,Category,undertaking; sectors; ii; infrastructure,II(CARDINAL)
+"I propose to provide certainty of 
+taxation to these entities on the gains from securities.",,,,,,,entities; certainty; gains; securities,
+"Extension of investment date for Sovereign and Pension Funds  
+155.",,,,,,Extension; Sovereign; Pension Funds,pension; extension; funds; date,Sovereign(ORG); 155(CARDINAL)
+"To promote funding from Sovereign Wealth Funds and Pension Funds 
+to the infrastructure sector, I propose to extend the date of making an 
+investment by five more years, to 31st March, 2030.","rs,",",",,,,Sovereign Wealth Funds; Pension Funds; March,funds; march 2030; 31st march; propose extend,Sovereign Wealth Funds(ORG); five more years(DATE); 31st March(DATE); 2030(DATE)
+"Personal Income - tax Reforms with special focus on middle class  
+156.",,,,,,Personal Income; Reforms,focus middle; personal income; personal; tax reforms,156(CARDINAL)
+"Democracy, Demography and Demand are the key support pillars in our 
+journey towards Viksit Bharat.",,,,,,Democracy; Demography; Demand; Viksit Bharat,demand; viksit bharat; viksit; bharat,Demography(PERSON); Viksit Bharat(PERSON)
+"The middle class provides strength for India’s 
+growth.",,,,,,The; India,provides; growth; middle class; middle,India(GPE)
+"This Government  under the leadership of Prime Minister Modi has 
+always believed in the admirable energy and ability of the middle class in 
+nation building.",,,,,,This Government; Prime Minister Modi,modi; prime; prime minister; energy,Modi(PERSON)
+"In recognition of their contribution, we have periodically 
+reduced their tax burden.",,,,,,,reduced; contribution; burden; tax,
+"Right after 2014, the ‘Nil tax ’ slab was raised to  
+` 2.5 lakh, which was further raised to ` 5 lakh in 2019 and to ` 7 lakh in 2023.",5 lakh,5,lakh,,,Right; Nil,raised; lakh; slab; 2023,2014(DATE); 2.5(CARDINAL); 5(CARDINAL); 2019(DATE); 7(CARDINAL); 2023(DATE)
+This is reflective of our Government ’s trust on the middle -class tax payers.,rs.,.,,,,This; Government,tax payers; payers; middle; middle class,Government(ORG)
+"I am 
+now happy to announce that there will be no income tax payable up to income 
+of ` 12 lakh (i.e. average income of ` 1 lakh per month other than special rate 
+income  such as capital gains ) under the new regime.",12 lakh,12,lakh,,,,income; lakh; income 12; happy,12(CARDINAL); 1(CARDINAL)
+"This limit will be ` 12.75 
+lakh for salaried tax payers, due to standard deduction of ` 75,000.","rs,",",",,,,This,75; deduction; tax payers; payers,"12.75(CARDINAL); 75,000(CARDINAL)"
+"Slabs and rates are being changed across the board to benefit all tax -
+payers.",rs.,.,,,,Slabs,slabs; payers; tax payers; board,
+"The new structure will substantially reduce the taxes of the middle 
+class and leave more money in their hands, boosting household consumption, 
+savings and investment.",,,,,,The,savings; taxes; middle; class,
+"In the new tax regime, I propose to revise tax rate structure as follows:  
+0-4 lakh rupees  Nil 
+4-8 lakh rupees  5 per cent  
+8-12 lakh rupees  10 per cent  
+12-16 lakh rupees  15 per cent  
+16-20 lakh rupees  20 per cent  
+20- 24 lakh rupees  25 per cent  
+Above 24 lakh rupees  30 per cent  
+ 28  
+ 
+159.",4 lakh,4,lakh,,,Nil; Above,rupees; lakh rupees; lakh; cent,0-4(CARDINAL); Nil(ORG); 4(CARDINAL); 5 per cent(MONEY); 10 per cent(MONEY); 12(CARDINAL); 15 per cent(MONEY); 16-20(CARDINAL); 20 per cent(MONEY); 24(CARDINAL); 25 per cent(MONEY); 24(CARDINAL); 30 per cent(MONEY); 28(CARDINAL); 159(CARDINAL)
+"To tax payers upto ` 12 lakh of normal income (other than special rate 
+income  such as capital gains ) tax rebate is being provided in addition to the 
+benefit due to slab rate reduction in such a manner that there is no tax payable 
+by them.",12 lakh,12,lakh,,,,tax; rate; income; upto,12(CARDINAL)
+"The total tax benefit of slab rate changes and rebate at different 
+income levels can be illustrated with examples.",,,,,,The,slab; rebate; changes; benefit,
+"A  tax payer in the new regime 
+with an income of ` 12 lakh will get a benefit of ` 80,000 in tax (which is 100% 
+of tax payable as per existing  rates).",12 lakh,12,lakh,100%,,,tax; 80 000; existing rates; income 12,"12(CARDINAL); 80,000(CARDINAL); 100%(PERCENT)"
+"A person having income of ` 18 lakh will 
+get a benefit of ` 70,000 in tax (30% of tax payable as per existing  rates).",18 lakh,18,lakh,30%,,,tax; existing rates; 000 tax; person,"18(CARDINAL); 70,000(CARDINAL); 30%(PERCENT)"
+"A person with an income of ` 25 lakh gets a benefit of ` 1,10,000 (25% of his 
+tax payable as per existing  rates).",25 lakh,25,lakh,25%,,,25; existing rates; person; existing,"25(CARDINAL); 1,10,000(CARDINAL); 25%(PERCENT)"
+Details of my tax proposals are given in the Annexure.,,,,,,Details; Annexure,tax proposals; given; details; proposals,
+"As a result of these proposals, revenue of about ₹ 1 lakh crore in direct 
+taxes and ₹ 2600 crore in indirect taxes will be forgone.",₹ 1 lakh,1,lakh,,,,taxes; crore; result; indirect taxes,about ₹ 1(MONEY); 2600(MONEY)
+"Mr. Speaker Sir, with this, I commend the budget to this august House.",,,,,,Speaker Sir; House,house; august; budget,august(DATE); House(ORG)
+"Jai Hind.  
+  
+ 29  
+ 
+Annexures to Part A  
+Annexure A  
+Building Rural Prosperity and Resilience  
+The programme will focus at:  
+1) catalyzing enterprise development, employment and financial independence 
+for rural women;  
+2) accelerating creation of new employment and businesses for young farmers 
+and rural youth;  
+3) nurturing and modernizing agriculture for productivity improvement and 
+warehousing, especially for marginal and small farmers; and  
+4) diversifying opportunities for landless families.",,,,,,"Jai Hind; Annexures; Part; Annexure; Building Rural Prosperity; Resilience  
+The",rural; farmers; employment; building rural,Jai Hind(PERSON); 29(CARDINAL); 2(CARDINAL); 3(CARDINAL)
+"Annexure B  
+Mission for Aatmanirbharta in Pulses  
+The Mission will place emphasis on:  
+1) development and commercial availability of climate resilient seeds,  
+2) enhancing protein content,  
+3) increasing productivity,  
+4) improving post -harvest storage and management, and  
+5) assuring remunerative prices to the farmers.",rs.,.,,,,"Annexure; Mission; Aatmanirbharta; Pulses  
+The Mission",mission; remunerative; aatmanirbharta; aatmanirbharta pulses,2(CARDINAL); 3(CARDINAL)
+"30  
+ 
+Annexure C  
+India Post as a Catalyst for the Rural Economy  
+The expanded range of services will include:  
+1) rural community hub colocation;  
+2) institutional account services;  
+3)",,,,,,"Annexure; India Post; Catalyst; Rural Economy  
+The",rural; services; catalyst rural; catalyst,"30(CARDINAL); C  
+India Post(ORG); Catalyst(FAC); 2(CARDINAL); 3(CARDINAL)"
+"DBT, cash out and EMI pick -up; 
+4) credit services to micro enterprises;  
+5) insurance; and  
+6) assisted digital services.",,,,,,,services; micro; enterprises; digital,DBT(ORG); EMI(ORG); 4(CARDINAL); 5(CARDINAL); 6(CARDINAL)
+"Annexure D  
+ 
+ 
+Annexure E  
+Manufacturing Mission - Furthering “Make in India",,,,,,Make in India; Annexure; Manufacturing Mission; Furthering; Make; India,annexure; furthering make; furthering; make india,India(GPE)
+"The Mission’s mandate will include 5 focus areas:  
+1) ease and cost of doing business;  
+2) future ready workforce for in -demand jobs;  
+3) a vibrant and dynamic  MSME sector;  
+4) availability of technology; and  
+5) quality products.",,,,,,The Mission,future; demand; include; technology,5(CARDINAL); 2(CARDINAL); 3(CARDINAL); MSME(ORG); 4(CARDINAL)
+"31  
+ 
+Annexure to Part B  
+Amendments relating to Indirect Taxes  
+A. LEGISLATIVE CHANGES IN CUSTOMS LAWS  
+A.1       Amendments in the Customs Act, 1962  
+(i)",,,,,,Annexure; Part; Amendments; Indirect Taxes; Customs Act,amendments; customs; laws; indirect taxes,"31(CARDINAL); Indirect Taxes  
+A. LEGISLATIVE(ORG); the Customs Act(LAW); 1962(DATE)"
+"A new sub -section (1B) is being inserted in Section 18 to 
+provide time limit of two years for finalization of provisional 
+assessment.",,,,,,Section,section; limit years; provisional assessment; provisional,1B(CARDINAL); Section 18(LAW); two years(DATE)
+"It also provides that this time limit may be 
+extended by the Commissioner of Customs for a further 
+period of one year if s ufficient cause is shown.",,,,,,Commissioner; Customs,provides; extended; customs; time limit,the Commissioner of Customs(ORG); one year(DATE)
+"It further 
+provides that, for the pending cases, the time -limit shall be 
+computed from the date of assent of the Finance Bill, 2025.",,,,,Finance Bill,Finance Bill,provides; finance; cases; date,Bill(PERSON); 2025(DATE)
+(ii),,,,,,,ii,
+"A new sub -section (1C) is being inserted to provide for certain 
+grounds on which the time -limit of two years for finalizing 
+provisional assessment shall remain suspended.",,,,,,,limit years; inserted provide; provisional assessment; provisional,1C(CARDINAL); two years(DATE)
+"(iii) A new section 18A is being inserted for voluntary revision of 
+entry after clearance of goods to allow importers and 
+exporters to revise any entry made in relation to the goods 
+within a prescribed time and subject to conditions as may be 
+prescribed.",,,,,,,prescribed; entry; goods; new section,section 18A(LAW)
+"It also  provides for treating such revised entry as 
+self-assessment and allow payment of duty or treat the 
+revised entry as a refund claim under section 27.",,,,,,,revised entry; revised; entry; refund,section 27(LAW)
+"It further 
+provides for certain cases where this section will not apply.",,,,,,,certain cases; provides; apply; cases,
+"(iv) A new Explanation is being inserted in sub -section 1 of section 
+27 to clarify that the period of limitation for claim of refund 
+consequent to the revised entry under section 18A or 
+amendment under Section 149 of the Customs Act, 1962, shall 
+be one year from the d ate of payment of duty or interest.",,,,,,Explanation; Section; Customs Act,section; refund; section 18a; revised entry,1(CARDINAL); 27(CARDINAL); section 18A(LAW); Section 149(LAW); the Customs Act(LAW); 1962(DATE); one year(DATE)
+"(v) A new clause is being inserted in Explanation 1 to Section 28 
+to provide that the relevant date in the case of payment of 
+duty as per the revised entry under section 18A is the date of 
+payment of duty or interest.",,,,,,Explanation; Section,payment duty; payment; date; duty,Explanation 1 to Section 28(LAW); section 18A(LAW)
+"(vi) A new clause is being inserted after clause (d) and (e) of 
+section 127A to define Interim Board, Member of the Interim 
+Board and pending applications.",,,,,,"Interim Board; Member; Interim 
+Board",interim board; interim; clause; board,"section 127A(LAW); Interim Board(ORG); the Interim 
+Board(ORG)"
+(vii),,,,,,,vii,
+"A new sub -section (6) is being inserted after sub -section (5) in 
+section 127B to provide end date for receipt of applications 
+under this section.",,,,,,,section; sub section; sub; end date,6(CARDINAL); 5(CARDINAL); section 127B(LAW)
+"32  
+ 
+(viii)",,,,,,,32,32(CARDINAL)
+"A new sub -section (12) is being inserted after sub -section (11) 
+in section 127C to make applicable the sub -sections of Section 
+127C of the Customs Act, 1962 to the Interim Board.",,,,,,Section; Customs Act; Interim Board,section; sub; sub section; section 12,12(CARDINAL); 11(CARDINAL); 127C(CARDINAL); the Customs Act(LAW); 1962(DATE); the Interim Board(ORG)
+"A new sub -section (3) is being inserted after sub -section (2) in 
+section 127D clarifying that the powers of Settlement 
+Commission shall be exercised by the Interim Board and the 
+provisions of this section shall, mutatis mutandis, apply to the 
+Interim Board as they apply to the Settlement Commission.",,,,,,"Settlement 
+Commission; Interim Board; Settlement Commission",section; settlement commission; settlement; commission,"3(CARDINAL); 2(CARDINAL); section 127D(LAW); Settlement 
+Commission(ORG); the Interim Board(ORG); Interim Board(ORG); the Settlement Commission(ORG)"
+"(x) A new sub -section (5) is being inserted after sub -section (4) of 
+section 127F providing that the powers and functions of 
+Settlement Commission shall be exercised or performed by 
+the Interim Board .",,,,,,Settlement Commission; Interim Board,section; sub section; sub; functions,5(CARDINAL); 4(CARDINAL); section 127F(LAW); Settlement Commission(ORG); the Interim Board(ORG)
+"(xi) A Proviso to section 127G of the Customs Act, 1962 is being 
+inserted to provide that the powers and functions of 
+Settlement Commission under this section shall be exercised 
+or performed by the Interim Board.",,,,,,Proviso; Customs Act; Settlement Commission; Interim Board,section; powers functions; exercised performed; functions,Proviso(ORG); the Customs Act(LAW); 1962(DATE); the Interim Board(ORG)
+"A new sub -section (4) is being inserted after sub -section (3) in 
+section 127H of the Customs Act, 1962 to provide that the 
+powers and functions of Settlement Commission under this 
+section shall be exercised or performed by the Interim Board .",,,,,,Customs Act; Settlement Commission; Interim Board,section; sub section; sub; exercised performed,4(CARDINAL); 3(CARDINAL); section 127H(LAW); the Customs Act(LAW); 1962(DATE); Settlement Commission(ORG); the Interim Board(ORG)
+"These changes shall come into effect from date of assent to the 
+Finance Bill, 2025  
+A.2        Amendments in the Customs Tariff Act, 1975  
+a)",,,,,Finance Bill,These; Finance Bill; Amendments; Customs Tariff Act,customs tariff; come; changes; finance,Bill(PERSON); 2025(DATE); the Customs Tariff Act(ORG); 1975(DATE)
+"The First Schedule to the Customs Tariff Act, 1975 is being 
+amended to, -  
+(i) revise tariff rates on certain industrial tariff items  
+(ii) add 178 new tariff entries in chapter 10, 20, 27, 28, 29, 38 
+and 71 and substitute/delete 63 tariff entries; insert 
+supplementary notes in chapter 10, 20, 29 and 38 and 
+amend 2 supplementary notes.",,,,,,The First Schedule; Customs Tariff Act,tariff; chapter; notes; 10 20,"The First Schedule(ORG); the Customs Tariff Act(LAW); 1975(DATE); 178(CARDINAL); chapter 10, 20(LAW); 27(DATE); 28(DATE); 29(DATE); 38(CARDINAL); 71(CARDINAL); 63(CARDINAL); chapter 10, 20(LAW); 29(DATE); 38(DATE); 2(CARDINAL)"
+"This is to align the tariff 
+lines with WCO classification and better identification of 
+goods.",,,,,,This,tariff lines; classification; lines; better,
+These changes shall come into effect from 1.5.2025.,,,,,,These,effect 2025; come; changes; effect,1.5.2025(CARDINAL)
+"33  
+ 
+B. LEGISLATIVE CHANGES IN GST LAWS",,,,,,GST,laws; 33; changes,33(CARDINAL)
+"[Save as otherwise provided, these changes will be brought into effect from 
+a date to be notified in coordination with States, as per recommendations of 
+the GST council]",,,,,,GST; Save; States,brought; changes; effect; date,States(GPE); GST(ORG)
+"AMENDMENT FOR TRADE FACILITATION  
+B.1      Amendments in section 2 of the CGST Act, 2017:  
+ 
+a) Clause (61) is being amended to explicitly provide for distribution of 
+input tax credit by the Input Service Distributor in respect of inter -
+state supplies on which tax has to be paid on reverse charge basis, by 
+inserting reference to sub -section (3) and sub -section (4) of section 5 
+of Integrated Goods and Services Tax Act.",,,,,,GST; Amendments; Act; Clause; Input Service Distributor; Integrated Goods; Services Tax Act,section; input; tax; sub section,the CGST Act(LAW); 2017(DATE); 61(DATE); the Input Service Distributor(ORG); 3(CARDINAL); 4(CARDINAL); section 5(LAW); Integrated Goods and Services Tax Act(ORG)
+"This amendment will be 
+effective from 1 st April, 2025.",,,,,,This; April,amendment; effective; 2025,"1 st April, 2025(DATE)"
+"b) Clause ( 69) (c) is being amended to  insert an Explanation to provide 
+for definitions of the terms 'Local Fund' and 'Municipal Fund' used in 
+the definition of ""local authority"" under the said clause so as to clarify 
+the scope of the said terms.",,,,,,Clause; Explanation; Local Fund; Municipal Fund,terms; said; clause; fund,69(CARDINAL)
+"A new clause (112A) is being inserted to provide definition of Unique 
+Identification Marking for implementation of Track and Trace 
+Mechanism  
+B.2 Amendments in Section 12 and 13 of the CGST Act, 2017  
+Sub-section (4) of Section 12 and Sub -section (4) of Section 13 relating 
+to time of supply in respect of vouchers are being omitted.",,,,,,"GST; Unique 
+Identification Marking; Track; Trace 
+Mechanism; Amendments; Section; Act; Sub",section; section 12; section section; 13,"112A(CARDINAL); Track and Trace 
+Mechanism  
+B.2 Amendments in Section 12(WORK_OF_ART); 13(CARDINAL); the CGST Act(LAW); 2017(DATE); 4(CARDINAL); Section 12(LAW); 4(CARDINAL); Section 13(LAW)"
+"B.3 Amendments in Section 17 of the CGST  Act, 2017  
+Clause (d) of sub -section (5) is being amended to substitute the words 
+""plant or machinery"" with the words ""plant and machinery"" with effect 
+from 1st July, 2017.",,,,,,GST; Amendments; Section; Act; Clause; July,plant; words; machinery; 2017,"B.3 Amendments(ORG); Section 17(LAW); 2017(DATE); 5(CARDINAL); 1st July, 2017(DATE)"
+"B.4 Amendments in Section 20 of the CGST Act, 2017  
+Section 20(1) and Section 20(2) are being amended to explicitly provide 
+for distribution of input tax credit by the Input Service Distributor in 
+respect of inter -state supplies, on which tax has to be paid on reverse 
+charge basis, by inserting reference to  sub-section (3) and sub -section 
+(4) of section 5 of Integrated Goods and Services Tax Act in sub -section 
+(1) of section 20.",,,,,,GST; Amendments; Section; Act; Input Service Distributor; Integrated Goods; Services Tax Act,section; section 20; 20; sub section,the CGST Act(LAW); 2017(DATE); Section 20(2(LAW); the Input Service Distributor(ORG); 3(CARDINAL); 4(CARDINAL); section 5(LAW); Integrated Goods and Services Tax Act(ORG); 1(CARDINAL); section 20(LAW)
+"The amendment will be effective from 1st April, 2025.",,,,,,The; April,1st; amendment; effective; 2025,"from 1st April, 2025(DATE)"
+"34  
+ 
+B.5 Amendments in Section 34 of the CGST Act, 2017  
+The Proviso to sub -section (2) is being amended to explicitly provide 
+for requirement of reversal of corresponding input tax credit in respect 
+of a credit -note, if availed, by the registered recipient, for the purpose 
+of reduction of tax liability of the s upplier in respect of the said credit 
+note.",,,,,,GST; Amendments; Section; Act; The Proviso,credit; note; 34; respect,34(CARDINAL); B.5 Amendments(ORG); Section 34 of the CGST Act(LAW); 2017(DATE); 2(CARDINAL)
+"B.6 Amendments in Section 38 of the CGST Act, 2017  
+a) Section 38(1) is being amended to omit the expression ""auto -
+generated"".",,,,,,GST; Amendments; Section; Act,section 38; 38; section; expression,Section 38 of the CGST Act(LAW); 2017(DATE)
+"b) Section 38(2) is being amended to omit the expression ""auto -
+generated"" and to insert the expression ""including"" after the words 
+""by the recipient"" in clause (b) to make the said clause more inclusive.",,,,,,Section,expression; clause; inclusive; section 38,
+"c) Section 38(2) is also being amended to insert a new clause (c) to 
+provide an enabling clause to prescribe other details to be made 
+available in statement of input tax credit.",,,,,,Section,clause; prescribe; section 38; provide enabling,
+"B.7 Amendments in Section 39 of the CGST Act, 2017  
+Section 39(1) is being amended to provide an enabling clause to 
+prescribe certain conditions and restriction for filing of return.",,,,,,GST; Amendments; Section; Act,39; section; prescribe; provide enabling,B.7 Amendments(ORG); Section 39(LAW); the CGST Act(LAW); 2017(DATE)
+"Amendments in Section 107 and 112 of the CGST Act, 2017  
+a) Section 107(6) is being amended to provide for 10% mandatory pre -
+deposit of penalty amount for appeals before Appellate Authority in 
+cases involving only demand of penalty without any demand for tax.",,,,10%,,GST; Amendments; Section; Act; Appellate Authority,107; demand; penalty; section,Section 107 and 112(LAW); the CGST Act(LAW); 2017(DATE); Section 107(6(LAW); 10%(PERCENT); Appellate Authority(ORG)
+"b) Section 112(8) is amended to provide for 10% mandatory pre -deposit 
+of penalty amount for appeals before Appellate Tribunal in cases 
+involving only demand of penalty without any demand for tax.",,,,10%,,Section; Appellate Tribunal,demand; penalty; appellate; 112,Section 112(8(LAW); 10%(PERCENT); Appellate Tribunal(ORG)
+"B.9 Insertion of a new section 122B of the CGST Act, 2017  
+A new Section 122B is being inserted to provide penalties for 
+contraventions of provisions related to the Track and Trace 
+Mechanism provided under section 148A.  
+B.10 Insertion of a new section 148A of the CGST Act, 2017  
+Section 148A is being inserted to provide for enabling mechanism for a 
+Track and Trace Mechanism for specified commodities.  
+ 
+ 
+ 35  
+ 
+B.11 Amendments in Schedule III of the CGST Act,2017  
+Schedule III is being amended, w.e.f.",,,,,,"GST; Insertion; Act; Section; Track; Trace 
+Mechanism; Trace Mechanism; Amendments; Schedule",148a; section 148a; new section; section,"section 122B of the CGST Act(LAW); 2017(DATE); Section 122B(LAW); Track(WORK_OF_ART); section 148A.  
+B.10 Insertion(LAW); the CGST Act(LAW); 2017(DATE); Track and Trace Mechanism for(WORK_OF_ART)"
+"01.7.2017 to,₋  
+a) insert a new Entry (aa) in paragraph 8 to provide that the supply of 
+goods warehoused in a Special Economic Zone or in a Free Trade 
+Warehousing Zone to any person before clearance for exports or to 
+the Domestic Tariff Area shall be treated neither as suppl y of goods 
+nor as supply of services.",,,,,,"Entry; Special Economic Zone; Free Trade 
+Warehousing Zone; Domestic Tariff Area",zone; supply; goods; area,8(CARDINAL); the Domestic Tariff Area(ORG)
+"b) Amend Explanation 2, w.e.f. 01.07.2017 to clarify that the said 
+explanation would be applicable in respect of entry (a) of paragraph 8.",,,,,,Amend Explanation,explanation; 01; clarify; amend,8(CARDINAL)
+"c) Insert Explanation 3 to define the terms 'Special Economic Zone', 
+'Free Trade Warehousing Zone' and 'Domestic Tariff Area', for the 
+purpose of the proposed entry (aa) in paragraph 8.  
+d)",,,,,,Insert Explanation; Special Economic Zone; Free Trade Warehousing Zone; Domestic Tariff Area,zone; economic zone; area; terms,Insert Explanation(PERSON); 3(CARDINAL); 8(CARDINAL)
+"To provide that no refund of tax already paid will be available for the 
+transactions referred above.",,,,,,,refund; tax paid; referred; paid,
+"C. OTHER PROVISIONS IN THE FINANCE BILL  
+C.1 Special Provision for Exemption from Service Tax in Certain Cases:  
+Services provided or agreed to be provided by insurance companies by 
+way of reinsurance services under the Weather Based Crop Insurance 
+Scheme (WBCIS) and the Modified National Agricultural Insurance 
+Scheme (MNAIS), are being  exempted from service tax for  the period 
+commencing from 1st April, 2011 and ending with 30th June, 2017.",,,,,,Special Provision; Exemption; Service Tax; Certain Cases; Services; Weather Based Crop Insurance; Scheme; Modified National Agricultural Insurance; April; June,insurance; service; provided; services,"FINANCE(ORG); the Modified National Agricultural Insurance 
+Scheme(ORG); MNAIS(ORG); 1st April, 2011(DATE); 30th June, 2017(DATE)"
+"D. CUSTOMS DUTY RATE CHANGES  
+D.1.",,,,,,,customs duty; changes; customs; duty,D. CUSTOMS(ORG)
+"Reduction in customs duty to reduce input costs, deepen value 
+addition, promote export competitiveness, correct inverted duty 
+structure, boost domestic manufacturing etc",,,,,,Reduction,duty; domestic manufacturing; competitiveness; input,
+"[with effect from 
+2.2.2025]  
+S. 
+No. Commodity  From  
+(per cent)",,,,,,Commodity  From,effect 2025; commodity cent; 2025 commodity; effect,2.2.2025(CARDINAL)
+"To 
+(per cent)  
+I. Aquafarming & Marine exports  
+1.",,,,,,Aquafarming; Marine,exports; cent,I. Aquafarming & Marine(ORG); 1(CARDINAL)
+"Frozen fish paste (surimi) for 
+manufacture of surimi analogue 
+products for export  30 5 
+ 36  
+ 
+S. 
+No. Commodity  From  
+(per cent)",,,,,,Frozen; Commodity  From,surimi; commodity cent; fish; 36,Frozen(PRODUCT); 30 5(DATE); 36(CARDINAL)
+"To 
+(per cent)  
+2. Fish hydrolysate for manufacture of 
+aquatic feed  15 5 
+II.",,,,,,Fish,fish; ii; manufacture; 15,"2(CARDINAL); 15 5 
+II(DATE)"
+"Chemicals  
+1.",,,,,,Chemicals,,1(CARDINAL)
+"Other compounds containing a 
+pyrimidine ring (whether or not 
+hydrogenated) or piperazine ring in 
+the structure classified under tariff 
+sub heading 2933 59  10 7.5 
+2.",,,,,,Other,59; sub heading; tariff sub; classified tariff,2933 59(DATE); 2(CARDINAL)
+"Synthetic flavouring essences and 
+mixtures of odoriferous substances 
+of a kind used in food or drink 
+industries classified under tariff sub 
+heading 3302 10  100 20 
+3.",,,,,,Synthetic,sub heading; tariff sub; used; classified tariff,3302(DATE); 10  100 20(CARDINAL); 3(CARDINAL)
+"Sorbitol classified under tariff 
+subheading 3824 60  30 20 
+III.",,,,,,Sorbitol,classified tariff; 60; classified; iii,Sorbitol(PERSON); 3824 60  30 20(DATE)
+"Waste and Scrap of Critical Minerals and others  
+1. Waste and scrap of Antimony, 
+Beryllium, Bismuth, Cobalt, 
+Cadmium, Molybdenum, Rhenium, 
+Tantalum, Tin, Tungsten, Zirconium, 
+Copper scrap covered under tariff 
+items 74040012, 74040019 and 
+74040022  10/5/2.5","rs  
+1.",1.,,,,GST; Waste; Scrap; Critical Minerals; Antimony; Beryllium; Bismuth; Cobalt; Cadmium; Molybdenum; Rhenium; Tantalum; Tin; Tungsten; Zirconium; Copper,scrap; waste; waste scrap; cobalt,"Scrap of Critical Minerals(ORG); Antimony(PERSON); Cadmium, Molybdenum, Rhenium(ORG); Tantalum(PERSON); Tungsten(GPE); 74040012(DATE); 74040019(DATE); 74040022(CARDINAL); 10/5/2.5(CARDINAL)"
+"Nil 
+2. Waste and scrap of Lithium -Ion 
+Battery  5 Nil 
+3.",,,,,,"Nil; Waste; Lithium; Ion 
+Battery",nil; nil waste; scrap; waste scrap,2(CARDINAL); Lithium(GPE); 5(CARDINAL); 3(CARDINAL)
+"Cobalt powder  5 Nil 
+4. Waste and scrap of Lead  5 Nil 
+5. Waste and scrap Zinc  5 Nil 
+IV.",,,,,,Cobalt; Nil; Waste; Lead; Zinc,nil; nil waste; waste; waste scrap,5(CARDINAL); 5(CARDINAL); 5(CARDINAL); 5(CARDINAL)
+"Drugs and Medicines  
+1.",,,,,,Drugs; Medicines,drugs medicines; drugs; medicines,1(CARDINAL)
+"Addition of 6 more medicines in List 
+3 and bulk drugs for their 
+manufacture  As 
+applicable  5 
+ 37  
+ 
+S. 
+No. Commodity  From  
+(per cent)",,,,,,Addition; List; Commodity  From,bulk; bulk drugs; commodity cent; medicines list,6(CARDINAL); 3(CARDINAL); 5(CARDINAL); 37(CARDINAL)
+"To 
+(per cent)  
+2.",,,,,,,cent,2(CARDINAL)
+"Addition of 36 more medicines in List 
+4 and bulk drugs for their 
+manufacture  As 
+applicable  Nil 
+3.",,,,,,Addition; List; Nil,bulk drugs; bulk; medicines list; applicable nil,36(CARDINAL); 3(CARDINAL)
+"Addition of 37 more medicines and 
+13 Patient Assistance Programmes in 
+the list of duty free imports by 
+pharmaceutical companies for 
+supply free of cost to patients  As 
+applicable  Nil 
+V. Precious Metals  
+1.",,,,,,Addition; Patient Assistance Programmes; Nil; Precious Metals,free; duty free; programmes; assistance,37(CARDINAL); 13(CARDINAL); 1(CARDINAL)
+"Platinum findings  25 6.4 
+(5 BCD + 1.4 
+AIDC)  
+VI.",,,,,,Platinum,vi; bcd; aidc; 25,25(CARDINAL); 5(CARDINAL); BCD(ORG); 1.4(CARDINAL)
+"Textile, Handicraft and Leather Sector  
+1.",,,,,,Textile; Handicraft; Leather Sector,textile; leather; sector,Handicraft(ORG); 1(CARDINAL)
+"Wet blue leather  10 Nil 
+2.",,,,,,Wet; Nil,leather; nil; 10,10(CARDINAL); 2(CARDINAL)
+"Shuttle less loom Rapier Looms 
+(below 650 meters per minute) and 
+Shuttle less loom Air jet Looms 
+(below 1000 meters per minute) for 
+use in textile industry  7.5 Nil 
+3.",,,,,,Shuttle; Rapier Looms; Air; Looms; Nil,meters; textile; industry; use,Rapier Looms(PRODUCT); 650 meters(QUANTITY); Air(ORG); Looms(ORG); below 1000 meters per minute(QUANTITY); 7.5(CARDINAL); 3(CARDINAL)
+"Certain additional items for duty free 
+import by bonafide exporters for 
+manufacture of handicrafts   As 
+applicable  Nil 
+VII.",,,,,,Certain; Nil,vii; handicrafts; duty free; import,
+"Capital Goods  
+1.",,,,,,Capital Goods,capital goods; capital; goods,Capital Goods(ORG); 1(CARDINAL)
+"Addition of 35 capital 
+goods/machinery for use in the 
+manufacture of lithium -ion battery 
+of EVs and 28 capital 
+goods/machinery for use in the 
+manufacture of lithium -ion battery 
+of mobile phones",,,,,,Addition,capital goods; use manufacture; machinery; ion,35(CARDINAL); 28(CARDINAL)
+"As 
+applicable  Nil 
+VIII.",,,,,,Nil,applicable nil; applicable; nil,
+"IT and Electronics  
+1.",,,,,,Electronics,electronics,1(CARDINAL)
+"Inputs/ parts and sub -parts of PCBA, 
+camera module, connectors and 
+inputs or raw materials for use in 2.5 Nil 
+ 38  
+ 
+S. 
+No. Commodity  From  
+(per cent)",,,,,,Inputs; Nil; Commodity  From,inputs; parts; module; commodity cent,2.5(CARDINAL); 38(CARDINAL)
+"To 
+(per cent)  
+manufacture of wired headset, 
+microphone and receiver, USB cable, 
+fingerprint reader/ sensor of cellular 
+mobile phone  
+2.",,,,,,,mobile; manufacture; cent,USB(ORG); 2(CARDINAL)
+"Specified inputs/parts (chip on film, 
+PCBA, glass board / substrate cell) for 
+use in manufacture of open cells of 
+TV panels  of LED/LCD TV  2.5 Nil 
+3.",,,,,,Specified; Nil,cell; open cells; use manufacture; led,2.5(CARDINAL); 3(CARDINAL)
+"Ethernet Switches Carrier -Grade  20 10 
+4.",,,,,,Ethernet Switches Carrier; Grade,carrier grade; switches; carrier; grade,"20 10 
+4(DATE)"
+"Open cell (with or without touch) for 
+interactive Flat Panel Display 
+module, Touch Glass sheet and 
+Touch Sensor PCB for use in 
+manufacture of Interactive Flat Panel 
+Display module  15/10  5 
+IX.",,,,,,"Open; Flat Panel Display; Touch Glass; Touch Sensor; Interactive Flat Panel 
+Display",touch; interactive flat; panel display; interactive,Flat Panel(ORG); Touch Glass(PERSON); PCB(ORG); Interactive Flat Panel(ORG); 15/10  5(CARDINAL)
+"Space Sector  
+1.",,,,,,Space Sector,sector,1(CARDINAL)
+"Ground installation for satellites 
+including its spares and consumables  As 
+applicable  Nil 
+2.",,,,,,Ground; Nil,applicable nil; applicable; including; nil,2(CARDINAL)
+"Goods used in the building of launch 
+vehicles and launching of satellites  5 Nil 
+X. Motorcycles  
+1. (i) Engine capacity not 
+exceeding  1600 CC (CBU)  
+(ii) Semi -knocked down (SKD)  
+(iii) Completely knocked down 
+(CKD)  50 
+25 
+15 40 
+20 
+10 
+2 (i)",,,,,,Goods; Nil; Motorcycles; Engine; Semi; Completely,knocked; exceeding; motorcycles; 40 20,"5(CARDINAL); 1600(DATE); CBU(ORG); SKD(ORG); 50 
+25(CARDINAL); 15 40 
+20(CARDINAL)"
+"Engine capacity   1600 CC & 
+above (CBU)  
+(ii) Semi -knocked down (SKD)  
+(iii) Completely knocked down 
+(CKD)  50 
+25 
+15 30 
+20 
+10 
+ 39  
+ 
+D.2.",,,,,,Engine; Semi; Completely,knocked; 39; cbu; 20 10,"1600(CARDINAL); CC & 
+above ((ORG); SKD(ORG); 50 
+25(CARDINAL); 15 30 
+20(CARDINAL); D.2(WORK_OF_ART)"
+"Increase in Customs duty [with effect from 02.02.2025]  
+S. 
+No. Commodity  
+ Rate of duties  
+From  
+(per cent)",,,,,,"Increase; Customs; Commodity  
+ Rate; From",02; effect 02; 02 02; 02 2025,Customs(ORG); 02.02.2025(CARDINAL); Rate(PERSON)
+"To 
+(per cent)  
+I. Textiles  
+1.",,,,,,Textiles,textiles; cent,1(CARDINAL)
+"Knitted Fabrics covered under tariff 
+items 6004 10 00, 6004 90 00, 6006 22 
+00, 6006 31 00, 6006 32 00, 6006 33 00, 
+6006 34 00, 6006 42 00 and 6006 90 00  10/20  20 or Rs 
+115 per 
+kg, 
+whichever 
+is higher  
+II Electronics  
+1 Interactive Flat Panel Display classified 
+under tariff item 8528 59 00  (CBU)  10 20 
+ 
+D.3.","Rs 
+115",115,,,,Knitted Fabrics; Electronics; Interactive Flat Panel Display,6006; 00 6006; 00; 10 20,"Knitted Fabrics(ORG); 6004 10 00, 6004 90 00, 6006 22 
+00, 6006 31 00, 6006 32 00, 6006 33 00(DATE); 6006(DATE); 34 00, 6006 42 00 and 6006 90 00(DATE); 10/20  20(CARDINAL); 115(CARDINAL); 8528(DATE); CBU(ORG); 10(CARDINAL)"
+"Decrease in Tariff rate with no change in Effective rate [With effect 
+from 02.02.2025]  
+ 
+S. 
+No. Commodity  Rate of duties  
+From  
+(per cent)",,,,,,Decrease; Tariff; Effective; With; Commodity  Rate; From,rate; 02; change; change effective,Effective(NORP); 02.02.2025(CARDINAL)
+"To 
+(per cent)  
+1. Glycerol crude, glycerol waters, 
+glycerol lye covered by tariff item 1520 
+00 00  30 
+ 20 
+ 
+2.","rs,",",",,,,Glycerol,glycerol; 00; tariff item; item,"1(CARDINAL); 1520(DATE); 00 00(DATE); 30(CARDINAL); 20 
+ 
+2(DATE)"
+"Phosphoric Acid  20 7.5 
+3.",,,,,,Phosphoric Acid,20,Phosphoric Acid  (PERSON); 20 7.5(CARDINAL); 3(CARDINAL)
+"Other – Prepared Binders, chemical 
+products and preparations of chemical 
+or allied industries covered under tariff 
+item 3824 99 00  17.5  7.5 
+4.","rs,",",",,,,Other; Prepared Binders,99; 17; tariff item; item,3824(DATE); 99 00(CARDINAL); 17.5(CARDINAL); 7.5(CARDINAL); 4(CARDINAL)
+"Marble and travertine, granite, crude 
+or roughly trimmed, merely cut into 
+blocks, slabs and other (tariff sub 
+heading 2515 12 and tariff items, 2525 
+11 00, 2516 11 00, 2516 12 00 )",,,,,,Marble,00; 11; 12; tariff,"2515 12(DATE); 2525(DATE); 11 00, 2516 11(DATE); 00, 2516 12 00(DATE)"
+"40 
+ 20 
+(+20 AIDC)  
+ 40  
+ 
+5.",,,,,,,40; 20; 40 20; 20 20,40(CARDINAL); 40(CARDINAL)
+"Candles, tapers and the like covered by 
+tariff heading 3406  25 
+(+2.5 SWS)  20 
+(+7.5 AIDC)  
+6.",,,,,,Candles,25 sws; covered tariff; 20 aidc; tariff heading,3406(CARDINAL); 25(CARDINAL); 20(CARDINAL); 6(CARDINAL)
+"Other reference materials  30 10 
+7. PVC flex films including PVC flex banner 
+and PVC flex sheets (tariff headings 
+3920, 3921)  25 
+(+2.5 SWS)  20 
+(+7.5 AIDC)  
+8.",,,,,,Other,pvc flex; pvc; flex; reference,30 10(DATE); PVC(ORG); PVC(ORG); 3920(DATE); 3921(DATE); 25(CARDINAL); 20(CARDINAL); 8(CARDINAL)
+"Footwear covered under tariff 
+headings 6401 to 6405  35 
+(+3.5 SWS)  20 
+(+18.5 
+AIDC)  
+9.",,,,,,Footwear,footwear; 18; 35; covered tariff,6401(DATE); 6405(DATE); 35(CARDINAL); 20(CARDINAL); 9(CARDINAL)
+"Worked monumental or building stone 
+and articles thereof under heading 
+6802 except 6802 99 00  40 20 
+ 
+10 Marble slabs classified under tariff 
+items 6802 10 00 ,  6802 21 10 , 6802 21 
+20 , 6802 21 90 , 6802 91 00 and 6802 
+92 00  40 20 
+(+20 AIDC)  
+11.",,,,,,Worked; Marble,6802; 6802 21; 00; 21,"6802(DATE); 6802 99 00  40 20(DATE); 6802 10 00 ,  6802 21 10 , 6802 21 
+20 , 6802 21 90 , 6802 91 00 and 6802(DATE); 92 00  40 20(DATE); 11(CARDINAL)"
+"OTS/MR type -flat rolled products of 
+thickness less than  0.5 mm  27.5  15 
+12.",,,,,,,mm; thickness; flat rolled; rolled products,OTS(ORG); less than  0.5(CARDINAL); 27.5(CARDINAL); 12(CARDINAL)
+"Other plates, sheets, strips of thickness 
+less than 0.5mm  27.5  15 
+13.",,,,,,Other,thickness; 13; 27; 15,less than(CARDINAL); 0.5mm  27.5(QUANTITY); 15(CARDINAL); 13(CARDINAL)
+"Flat -rolled products in coils of 
+thickness greater than or equal to 4.75 
+mm but not exceeding 10mm  22.5  15 
+14.",,,,,,Flat,mm; greater; exceeding; thickness,"4.75 
+mm(QUANTITY); 10mm  22.5(QUANTITY); 15(CARDINAL); 14(CARDINAL)"
+"Flat-rolled products in coils of thickness 
+greater than or equal to 3 mm but less 
+than 4.75 mm  22.5  15 
+15.",,,,,,Flat,mm; 15; greater; thickness,3 mm(QUANTITY); 4.75 mm(QUANTITY); 22.5(CARDINAL); 15(CARDINAL)
+"Flat-rolled products of stainless steel of 
+width 600mm or more - Other nickel 
+chrome austenitic type  22.5  15 
+16.",,,,,,Flat; Other,22 15; rolled products; flat rolled; rolled,600mm(QUANTITY); 22.5(CARDINAL); 16(CARDINAL)
+"Flat-rolled products of stainless steel of 
+width 600mm or more - Other sheets 
+and plates  22.5  15 
+17.",,,,,,Flat; Other,22 15; 17; rolled products; flat rolled,600mm(QUANTITY); 22.5(CARDINAL); 17(CARDINAL)
+"Flat-rolled products of other alloy steel 
+grain oriented  20 15 
+ 41  
+ 
+18.",,,,,,Flat,rolled products; flat rolled; rolled; 18,20 15(DATE); 41(CARDINAL); 18(DATE)
+"Other tubes  or pipe fittings of stainless 
+steel  25 15 
+19.",,,,,,Other,19; fittings; steel 25; steel,"25 15 
+19(DATE)"
+"Other fittings of iron or steel, non -
+galvanised  25 15 
+20.",,,,,,Other,fittings; iron; iron steel; steel,"25 15 
+20(DATE)"
+"Other structure and parts of structures 
+of iron and steel  25 15 
+21.",,,,,,Other,21; steel 25; iron steel; iron,"25 15 
+21(DATE)"
+"Others -tanks and drums etc.  25 15 
+22.",,,,,,Others,22; 25 15; 25; 15,"25 15 
+22(DATE)"
+"Other screws and bolts w/n with nuts  25 15 
+23.",,,,,,Other,23; 25 15; 25; 15,"25 15 
+23(DATE)"
+"Threaded nuts  25 15 
+24.",,,,,,Threaded,24; 25 15; 25; 15,25 15(DATE); 24(CARDINAL)
+"Other non -threaded articles  25 15 
+25.",,,,,,Other,25; articles; 25 15; non,"25 15 
+25(DATE)"
+"Others springs and leaves  of iron/steel  25 15 
+26.",,,,,,Others,iron; steel 25; iron steel; 26,25 15(DATE); 26(CARDINAL)
+"Other cast articles of iron or steel  25 15 
+27.",,,,,,Other,iron; steel 25; iron steel; articles,"25 15 
+27(DATE)"
+"Articles of forged or stamped but not 
+further worked  25 15 
+28.",,,,,,Articles,28; articles; 25 15; 25,"25 15 
+28(DATE)"
+"All other articles of iron/steel  25 15 
+29.",,,,,,All,iron; steel 25; iron steel; 29,"25 15 
+29(DATE)"
+"Solar cells covered by tariff heading 
+8541  25 
+(+2.5 SWS)  20 
+(+7.5 AIDC)  
+30.",,,,,,Solar,cells; 25 sws; 20 aidc; covered tariff,Solar(ORG); 8541  25(CARDINAL); 20(CARDINAL); 30(CARDINAL)
+"Motor cars and other motor vehicles 
+principally designed for the transport 
+of persons, including station wagons 
+and racing cars, under tariff heading 
+8703 >USD 40000  125  (tariff 
+rate)  
+ 
+100 BCD + 
+10 SWS  
+(effective 
+rate)  70 (tariff 
+rate)  
+ 
+70+ 40 
+AIDC  
+(effective 
+rate)  
+31.","rs,",",",,,,Motor,rate; rate 70; cars; tariff rate,8703 >USD 40000  125(PRODUCT); 100(CARDINAL); BCD(ORG); 10(CARDINAL); SWS(ORG); 70(DATE); 70+ 40(DATE); 31(CARDINAL)
+"Used Motor cars and other motor 
+vehicles principally designed for the 
+transport of persons, including station 
+wagons and racing cars, under tariff 
+heading 8703  125 (tariff)  
+ 
+125 BCD + 
+12.5 SWS  
+(effective 
+rate)  70 (tariff)  
+ 
+70+ 67.5 
+AIDC  
+(effective 
+rate)  
+32.","rs,",",",,,,Used Motor,125; cars; tariff; motor,8703(CARDINAL); 125(CARDINAL); 125(CARDINAL); BCD(ORG); 12.5(CARDINAL); 70(DATE); 70(CARDINAL); 32(CARDINAL)
+"Motorcycles (including mopeds) and 
+cycles fitted with an auxiliary motor, 100 (tariff)  70(tariff)  
+ 42  
+ 
+with or without side -cars under tariff 
+heading 8711  (No change 
+in effective 
+rate)  (No change 
+in effective 
+rate) 
+33.",,,,,,Motorcycles,change effective; change; tariff; effective rate,100(CARDINAL); 42(CARDINAL); 8711(DATE); 33(CARDINAL)
+"Used Motorcycles (including mopeds) 
+and cycles fitted with an auxiliary 
+motor, with or without side -cars under 
+tariff heading 8711  100 (tariff)  
+ 
+100 BCD 
++10 SWS  
+(effective 
+rate)  70 (tariff)  
+ 
+70+ 40 
+AIDC  
+(effective 
+rate)  
+34.",,,,,,Used Motorcycles,tariff; effective rate; effective; 70,8711  100(CARDINAL); 100(CARDINAL); BCD(ORG); 70(DATE); 70+ 40(DATE); 34(CARDINAL)
+"Bicycles under tariff item 8712 00 10  35 20 
+(+15 AIDC)  
+35.",,,,,,Bicycles,35; item; tariff item; 00,8712(DATE); 10  35 20(CARDINAL); 35(CARDINAL)
+"Yachts and other vessels for pleasure 
+or sports; rowing boats and canoes 
+covered under tariff heading 8903  25 
+(+2.5 SWS)  20 
+(+7.5 AIDC)  
+36 Electricity  meters for alternating 
+current (Smart Meters) under tariff 
+item  9028  30 10  25 
+(+2.5 SWS)  20 
+(+7.5 AIDC)  
+37 Parts of electronic toys, under tariff 
+item 9503 00",,,,,,Yachts; Electricity; Smart Meters; Parts,meters; tariff; tariff item; item,8903(CARDINAL); 25(CARDINAL); 20(CARDINAL); 36(CARDINAL); Smart Meters(PERSON); 9028  30(DATE); 20(CARDINAL); 9503 00(DATE)
+"91 for manufacture of 
+electronic toys  25 BCD + 
+2.5 SWS   20 BCD+ 
+7.5 AIDC  
+ 
+D.4.",,,,,,,bcd; electronic toys; 91; toys,91(CARDINAL); 25(CARDINAL); BCD(ORG); 2.5(CARDINAL); SWS(ORG); 20(CARDINAL); 7.5(CARDINAL)
+"Decrease in Tariff rate with reduction in effective rate [With effect 
+from 02.02.2025]  
+ 
+ Commodity  Rate of duties  
+From  
+(per cent)",,,,,,Decrease; Tariff; With; Commodity  Rate; From,rate; 02; effect 02; 02 2025,02.02.2025(CARDINAL)
+"To 
+(per cent)  
+1.",,,,,,,cent,1(CARDINAL)
+"Synthetic flavouring essences 
+and mixtures of odoriferous 
+substances for use in food and 
+drink industry  100 
+ 20 
+(+2 SWS)  
+2.",,,,,,Synthetic,food; industry; use; 100,100(CARDINAL); 2(CARDINAL)
+"Sorbitol under tariff sub -
+heading 3824 60  30 
+(+3 SWS)  20 
+(+2 SWS)  
+ 43  
+ 
+ Commodity  Rate of duties  
+From  
+(per cent)",,,,,,Sorbitol; Commodity  Rate; From,sws; tariff sub; sub heading; 60,Sorbitol(PERSON); 3824 60  30(DATE); 20(CARDINAL); 43(CARDINAL); Commodity  Rate(ORG)
+"To 
+(per cent)  
+3. Articles of jewellery and parts 
+thereof under tariff heading 
+7113; articles of goldsmiths’ or 
+silversmiths’ wares and parts 
+thereof under tariff heading 
+7114  25 
+ 20 
+ 
+4.",,,,,,Articles,parts thereof; thereof; articles; parts,"3(CARDINAL); 7113(DATE); 7114(DATE); 25(CARDINAL); 20 
+ 
+4(DATE)"
+"Solar module under tariff 
+heading 8541  40 
+(+4 SWS)  20 
+(+20 AIDC)  
+5.",,,,,,Solar,20; module; 20 20; 20 aidc,Solar(ORG); 8541(DATE); 40(CARDINAL); +4 SWS(GPE); 20(CARDINAL); 5(CARDINAL)
+"Motor vehicles (for passenger) 
+covered under tariff heading 
+8702  40 
+(+4 SWS)  20 
+(+20 AIDC)  
+6.",,,,,,Motor,20; motor vehicles; vehicles; motor,8702  40(CARDINAL); +4 SWS(GPE); 20(CARDINAL); 6(CARDINAL)
+"Motor vehicles (for goods) 
+covered under tariff heading 
+8704  40 
+(+4 SWS)  20 
+(+20 AIDC)  
+7. Seats (other than those of 
+heading 9402), whether or not 
+convertible into beds, and 
+parts thereof, covered under 
+tariff heading 9401  25 
+(+2.5 SWS)  20 
+(+5 AIDC)  
+8.",,,,,,Motor; Seats,heading; 20; 20 aidc; covered tariff,8704  40(CARDINAL); +4 SWS(GPE); 20(CARDINAL); 9402(DATE); 9401(DATE); 25(CARDINAL); 20(CARDINAL); 8(CARDINAL)
+"Other furniture and parts 
+thereof covered under tariff 
+heading 9403  25 
+(+2.5 SWS)  20 
+(+5 AIDC)  
+9.",,,,,,Other,parts thereof; thereof; 25 sws; parts,9403(CARDINAL); 25(CARDINAL); 20(CARDINAL); 9(CARDINAL)
+"Mattress supports, articles of 
+bedding and similar furnishing 
+etc covered under tariff 
+heading 9405  25 
+(+2.5 SWS)  20 
+(+5 AIDC)  
+10.",,,,,,Mattress,articles; 25 sws; 20 aidc; covered tariff,9405(DATE); 25(CARDINAL); 20(CARDINAL); 10(CARDINAL)
+"Luminaries and light fittings  
+including searchlights and 
+spotlights and parts thereof 
+etc 25 
+(+2.5 SWS)  20 
+(+5 AIDC)  
+11.",,,,,,Luminaries,fittings; parts thereof; thereof; 25 sws,25(CARDINAL); 20(CARDINAL); 11(CARDINAL)
+"Parts of electronic toys, under 
+tariff item 9503 00",,,,,,Parts,electronic toys; toys; electronic; tariff item,9503 00(DATE)
+"91  70 
+ 20 
+(+20 AIDC)  
+ 44  
+ 
+ Commodity  Rate of duties  
+From  
+(per cent)",,,,,,Commodity  Rate; From,20; 91; commodity rate; rate duties,91  70(CARDINAL); 44(CARDINAL); Commodity  Rate(ORG)
+"To 
+(per cent)  
+12.",,,,,,,cent 12; 12; cent,12(CARDINAL)
+"Laboratory chemicals under 
+tariff item 9802 00 00",,,,,,Laboratory,00; item; tariff item; tariff,9802(DATE); 00 00(DATE)
+"(other 
+than those attracting 10% BCD 
+on specified end use)  150 
+(+ 15 SWS)  
+ 70 
+(+ 70 AIDC)  
+13.",,,,10%,,,70; end use; 13; use,10%(PERCENT); BCD(ORG); 150(CARDINAL); 15(CARDINAL); SWS(ORG); 70(CARDINAL); 13(CARDINAL)
+"All dutiable articles, imported 
+by a passenger or a member of 
+a crew in his baggage, under 
+tariff heading 9803  100 (tariff rate)  
+ 
+35+ 3.5 SWS  
+(effective rate)  70 (tariff rate)  
+ 
+35 
+(effective rate)  
+14.",,,,,,All,rate; tariff rate; tariff; effective rate,9803  100(CARDINAL); 35+ 3.5(DATE); 70(DATE); 35(CARDINAL); 14(CARDINAL)
+"Dutiable goods imported for 
+personal use classified under 
+heading 9804 other than those 
+at 10% BCD  35 
+(+ 3.5 SWS)  20 
+ 
+ 
+E. Export duty on Leather [with effect from 2.2.2025]  
+S. 
+No. Commodity  
+ Rate of duties  
+From  
+(per cent)",,,,10%,,"Dutiable; Export; Leather; Commodity  
+ Rate; From",goods imported; effect 2025; personal; 2025 commodity,9804(DATE); 10%(PERCENT); BCD(ORG); 35(CARDINAL); 3.5(CARDINAL); 20(CARDINAL); 2.2.2025(CARDINAL); Rate(PERSON)
+"To 
+(per cent)  
+1 Crust Leather (hides and skins)  20 0 
+ 
+F. Trade Facilitation Measures  
+F.1.",,,,,,Crust Leather; Trade Facilitation Measures,trade facilitation; facilitation; trade; leather,1(CARDINAL); 20(CARDINAL)
+"Increase in duration  for export of handicrafts  
+The duration for export of handicrafts manufactured from duty free 
+inputs by bonafide exporters is being increased from 6 months to 1 
+year, further extendable by 3 months.",,,,,,Increase; The,handicrafts; months; export; duty free,"6 months(DATE); 1 
+year(DATE); 3 months(DATE)"
+"Removal of Customs  (Import of Goods at Concessional rate of duty or 
+For Specific End Use) Rules 2022 ( IGCR) condition for import of seeds for 
+use in manufacture of Lab Grown Diamonds  
+The IGCR condition for custom duty exemption on import of seeds for 
+use in manufacture of rough L ab Grown Diamond  is being removed.",,,,,,"Removal; Customs; Import; Goods; Concessional; For Specific End Use; Rules; Lab Grown Diamonds  
+The; Grown Diamond",import; use; grown; condition,"Customs(ORG); Lab Grown Diamonds  
+(WORK_OF_ART); Grown Diamond(PERSON)"
+"Extension of time limit for export  
+ 45  
+ 
+The time limit for export of foreign origin goods imported for repairs is 
+being extended from 6 months to one year further extendable by one 
+year for railway goods.",,,,,,Extension; The,export; time limit; year; goods,"45(CARDINAL); 6 months to one year(DATE); one 
+year(DATE)"
+"Amendment of Customs (Import of Goods at Concessional Rate  of 
+Duty or For Specified  End Use ) Rules, 2022  
+Rules 6 and 7 are being amended to increase the time limit for fulfilling 
+end use from current six months to one year and to file only a quarterly 
+statement instead of monthly statement.",,,,,,Amendment; Customs; Import; Goods; Concessional Rate; Duty; For Specified  End Use; Rules,rules; end use; statement; use,2022(DATE); 6(CARDINAL); current six months to one year(DATE); quarterly(DATE); monthly(DATE)
+"Note: AIDC – Agriculture Infrastructure and Development Cess; SWS – Social 
+Welfare Surcharge  
+ 
+G. OTHERS  
+There are few other changes of minor nature.",,,,,Agriculture Infrastructure,"Note; Agriculture Infrastructure; Development Cess; Social 
+Welfare Surcharge; There",note; surcharge; cess; minor,
+"For details of the budget 
+proposals, the Explanatory Memorandum and other relevant budget 
+documents may be referred to.",,,,,,For; Explanatory Memorandum,budget; referred; details; relevant,
+"46  
+ 
+Annexure to Part B  
+Amendments relating to Direct Taxes  
+(i) Personal Income -tax reforms with special focus on middle class  
+1.",,,,,,Annexure; Part; Amendments; Direct Taxes; Personal Income,personal income; focus middle; personal; tax reforms,46(CARDINAL); Direct Taxes(ORG)
+"Substantial relief is proposed under the new tax regime with new slabs 
+and tax rates as under: - 
+ Total income  Rate of tax  
+Upto ` 4,00,000  Nil 
+From ` 4,00,001 to ` 8,00,000  5 per cent  
+From ` 8,00,001 to ` 12,00,000  10 per cent  
+From ` 12,00,001 to ` 16,00,000  15 per cent  
+From ` 16,00,001 to ` 20,00,000  20 per cent  
+From ` 20,00,001 to ` 24,00,000  25 per cent  
+Above ` 24,00,000  30 per cent  
+ 
+2.",,,,,,"Substantial; Total; Rate; Upto; Nil 
+From; From; Above",00; 00 000; 00 001; 001,"Rate(PERSON); 4,00,000(CARDINAL); 4,00,001(CARDINAL); 8,00,000(CARDINAL); 8,00,001(CARDINAL); 12,00,000  10(CARDINAL); 12,00,001(CARDINAL); 16,00,000  15(CARDINAL); 16,00,001(CARDINAL); 20,00,000  20(CARDINAL); 20,00,001(CARDINAL); 24,00,000  25(CARDINAL); 24,00,000  30(CARDINAL); 2(CARDINAL)"
+"Rebate on income -tax 
+•",,,,,,Rebate,rebate; income tax; income; tax,
+"Resident individual with total income up to ` 7,00,000 do not pay any 
+tax due to rebate under the new tax regime.",,,,,,Resident,tax; tax rebate; new tax; pay,"7,00,000(CARDINAL)"
+"It is proposed to 
+increase the rebate for the resident individual under the new regime 
+so that they do not pay tax if their total income is up to ` 12,00,000.",,,,,,,income 12; proposed increase; 12 00; individual,"12,00,000(CARDINAL)"
+"Marginal relief as provided earlier under the new tax regime is also 
+applicable for income marginally higher than ` 12,00,000.",,,,,,Marginal,earlier; new tax; marginal; tax regime,"12,00,000(CARDINAL)"
+"• A few examples for calculation of tax benefit are given in the table 
+below:  
+ 47  
+ 
+ Income  Tax on  
+Slabs and rates  Benefit  
+of Rebate benefit  Total 
+Benefit  Tax after 
+rebate 
+Benefit  
+ Present  Proposed  Rate 
+/Slab",,,,,,"Income  Tax; Slabs; Benefit; Rebate; Total 
+Benefit  Tax; Benefit  
+ Present  Proposed  Rate; Slab",benefit; rebate; tax; given,47(CARDINAL)
+"Full upto Rs 12 
+lacs   
+8 lac  30,000  20,000  10,000  20,000  30,000  0 
+9 lac  40,000  30,000  10,000  30,000  40,000  0 
+10 lac  50,000  40,000  10,000  40,000  50,000  0 
+11 lac  65,000  50,000  15,000  50,000  65,000  0 
+12 lac  80,000  60,000  20,000  60,000  80,000  0 
+16 lac  1,70,000  1,20,000  50,000  0 50,000  1,20,000  
+20 lac  2,90,000  2,00,000  90,000  0 90,000  2,00,000  
+24 lac  4,10,000  3,00,000  1,10,000  0 1,10,000  3,00,000  
+50 lac  11,90,000  10,80,000  1,10,000  0 1,10,000  10,80,000  
+(ii) Rationalization of TDS/TCS for easing difficulties  
+1.",Rs 12,12,,,,Full; Rationalization,000; lac; 000 10; 10 000,"12(CARDINAL); 8(CARDINAL); 30,000(CARDINAL); 0(CARDINAL); 9 lac  40,000  30,000(QUANTITY); 40,000(CARDINAL); 10(CARDINAL); 11(CARDINAL); 12(CARDINAL); 80,000(CARDINAL); 16(CARDINAL); 1,10,000  10,80,000(CARDINAL); TDS(ORG); 1(CARDINAL)"
+"Rationalization tax deducted at source (TDS) and tax collected at source 
+(TCS) rates:  
+• To reduce multiplicity of rates and compliance burden, it is proposed 
+to bring down certain TDS and TCS rates in certain sections as below:  
+S. No  Section  of the Act  Present TDS/TCS  
+Rate  Proposed TDS/TCS  Rate  
+1.",,,,,,Rationalization; Section; Act  Present; Rate  Proposed; Rate,tds; tcs; tds tcs; rates,TDS(ORG); TCS(ORG); TDS(ORG); TCS(ORG); TDS(ORG); TCS(ORG); TDS(ORG); TCS(ORG); 1(CARDINAL)
+"Section 194LBC - Income in 
+respect of investment in 
+securitization trust  25% if payee is 
+Individual or HUF and 
+30% otherwise  
+ 10%  
+2.",,,,25%,,Section; Income; Individual,individual; respect; trust; 30,25%(PERCENT); HUF(ORG); 30%(PERCENT); 10%(PERCENT); 2(CARDINAL)
+"Sub-section (1) of section 206C 
+(i) TCS on timber or any other 
+forest produce (not being 
+tendu leaves)  obtained under 
+a forest lease and  
+(ii) TCS on timber obtained by 
+any mode other than under a 
+forest lease  2.5%  2% 
+3.",,,,2.5%,,Sub,forest; forest lease; obtained; tcs,1(CARDINAL); section 206C(LAW); 2.5%  2%(PERCENT); 3(CARDINAL)
+"Sub-section (1G) of section 
+206C – TCS on remittance 
+under LRS for  purpose of 
+education, financed by loan 
+from financial institution  0.5% after ` 7 lakhs  Nil 
+ 
+ 48  
+ 
+•",7 lakh,7,lakh,0.5%,,Sub; Nil,section; remittance; 48; loan,206C(CARDINAL); 0.5%(PERCENT); 7(CARDINAL); Nil(ORG); 48(CARDINAL)
+"It is further proposed to increase certain thresholds for requirement 
+to deduct tax at source or collect tax at source under certain sections, 
+as below:  
+S.No  Section  of the Act  Present TDS /TCS 
+Threshold (Rs)",,,,,,Section; Act  Present; Threshold,tax source; source; certain; tax,TDS(ORG)
+"Proposed TDS /TCS 
+Threshold (Rs)  
+1.",,,,,,Proposed; Threshold,threshold; rs; tds tcs; tds,TDS(ORG); 1(CARDINAL)
+"193 - Interest on 
+securities",,,,,,Interest,securities,193(CARDINAL)
+"Nil 10,000/ - 
+2.  
+194A - Interest 
+other than  
+Interest on 
+securities  (i) 50,000/ - for senior 
+citizen;  
+(ii) 40,000/ - in case of 
+others  
+when payer is bank, 
+cooperative society and 
+post office  
+(iii) 5,000/ - in other 
+cases  (i) 1,00,000/ - for senior 
+citizen  
+(ii) 50,000/ - in case of 
+others  
+when payer is bank, co -
+operative society and post 
+office  
+(iii) 10,000/ - in other cases  
+3.  194 – Dividend, 
+for an individual 
+shareholder  5,000/ - 10,000/ - 
+4.",,,,,,Nil; Interest; Dividend,000; 10 000; citizen; senior,"2(CARDINAL); 194A(CARDINAL); 40,000/(CARDINAL); 3.  194(CARDINAL); 4(CARDINAL)"
+"194K - Income in 
+respect of units of 
+a mutual fund or 
+specified company 
+or undertaking  5,000/ - 10,000/ - 
+5.",,,,,,Income,000; undertaking; company; 000 10,"194(CARDINAL); K - Income(ORG); 5,000/ - 10,000/(CARDINAL); 5(CARDINAL)"
+"194B - Winnings 
+from lottery, 
+crossword puzzle 
+etc.",,,,,,Winnings,,194B - Winnings(DATE)
+"Aggregate of amounts 
+exceeding 10,000/ - 
+during the financial year  10,000/ - in respect of a 
+single transaction  
+6.",,,,,,Aggregate,10 000; 000; 10; exceeding,"the financial year  10,000/(DATE); 6(CARDINAL)"
+"194BB - Winnings 
+from horse race  
+7.",,,,,,Winnings,,194BB - Winnings(PERSON)
+"194D - Insurance 
+commission  15,000/ - 20,000/ - 
+8.  194G - Income by 
+way of 
+commission, prize 
+etc. on lottery 
+tickets  15,000/ - 20,000/ - 
+9.",,,,,,Insurance; Income,000; 15 000; 000 20; 20 000,"194D(CARDINAL); 15,000/(CARDINAL); 8(CARDINAL); 194(CARDINAL); 15,000/(CARDINAL); 9(CARDINAL)"
+"194H - 
+Commission or 
+brokerage  15,000/ - 20,000/ - 
+10.",,,,,,Commission,000; 15 000; 000 20; 20 000,"194H(CARDINAL); 15,000/(CARDINAL); 10(CARDINAL)"
+"194-I Rent  2,40,000/ - during the 
+financial year  50,000/ - per month or part 
+of a month  
+ 49  
+ 
+11.",,,,,,Rent,month; 000; rent; 40 000,"194(CARDINAL); the 
+financial year  50,000/ - per month(DATE); a month(DATE); 49(CARDINAL)"
+"194J - Fee for 
+professional or 
+technical services  30,000/ - 50,000/ - 
+12.",,,,,,Fee,000; 000 50; technical; fee,194J(CARDINAL); 12(CARDINAL)
+"194LA - Income by 
+way of enhanced 
+compensation  2,50,000/ - 5,00,000/ - 
+13.",,,,,,Income,000; 000 00; income way; way,"2,50,000/ - 5,00,000/ - 
+(DATE); 13(CARDINAL)"
+"206C(1G) – 
+Remittance under 
+LRS and overseas 
+tour program 
+package  7,00,000/ - 10,00,000/ - 
+ 
+(iii) Encouraging voluntary compliance  
+1.",,,,,,Remittance; Encouraging,00 000; 00; 000; encouraging voluntary,"206C(1(CARDINAL); 7,00,000/ - 10,00,000/(CARDINAL); 1(CARDINAL)"
+"Extending the time -limit to file the updated return:  
+•",,,,,,Extending,file updated; updated return; file; return,
+"It is proposed to extend the time -limit to file the updated return from 
+the existing 24 months to 48 months from the end of the relevant 
+assessment year.",,,,,,,months; file updated; relevant assessment; end relevant,24 months to 48 months(DATE)
+"The additional tax payable shall be 60% of the 
+aggregate of tax and interest payable on additional income for filing 
+updated return during the period of 24 months to 36 months from 
+the end of relevant assessment year.",,,,60%,,The,tax payable; payable; additional; months,60%(PERCENT); 24 months to 36 months(DATE)
+"Additional t ax payable shall be 
+70% of the aggregate of tax and interest payable for filing updated 
+return during the period of 36 months to 48 months from the end of 
+relevant assessment year subject to certain conditions.",,,,70%,,Additional,payable; months; relevant assessment; end relevant,70%(PERCENT); the period of(DATE); 36 months to 48 months(DATE)
+"Obligation  to furnish  information  in respect  of crypto -asset:  
+•",,,,,,Obligation,asset; respect,
+"It is proposed  to bring  amendment  in the Act to provide  for that a 
+prescribed  reporting  entity  in respect  of a crypto -asset  shall  furnish  
+information  in respect  of a transaction  in such  crypto  asset,  in a 
+statement  as prescribed.",,,,,,Act,prescribed; asset; respect; entity,
+"It is also proposed  to align  the definition  of 
+virtual  digital  asset  accordingly.",,,,,,,digital; asset; definition; proposed,
+"3. Annual  value of the self -occupied property simplified:  
+•",,,,,,Annual,annual value; occupied; annual; self,3(CARDINAL); Annual(DATE)
+"It is proposed  to provide  that the annual  value  of the property  
+consisting  of a house  or any part thereof  shall  be taken  as nil, if the 
+owner  occupies  it for his own  residence  or cannot  actually  occupy  it 
+due to any reason.",,,,,,,annual value; house; annual; thereof,annual(DATE)
+"(iv) Reducing compliance burden  
+ 50  
+ 
+1.",,,,,,Reducing,reducing compliance; iv; reducing; compliance burden,50(CARDINAL); 1(CARDINAL)
+"Reduction in compliance burden by omission of TCS on sale of specified 
+goods:   
+• To reduce compliance burden of the taxpayers, it is proposed to no 
+tax will be collected at source on sale of specified goods of value of 
+more than fifty lakhs.","rs,",",",,,,Reduction,compliance burden; burden; compliance; specified,TCS(ORG); more than fifty(CARDINAL)
+"Removal of higher TDS/TCS for non -filers of return of income :  
+• To reduce compliance burden on the deductor/collector, it is 
+proposed to omit section 206AB and section 206CCA of the Act.",,,,,,Removal; Act,section; omit; return; higher,TDS(ORG); 206AB(PRODUCT)
+"Definition of “forest produce” rationalized:  
+•",,,,,,Definition,forest produce; forest; rationalized; produce,
+"It is proposed to clarify the meaning of “forest produce” u/s 206C(1) 
+of the Act to remove any ambiguity regarding definition of the same.",,,,,,Act,remove; forest; forest produce; 206c,206C(1(CARDINAL)
+"It is also proposed that TCS be collected only on “any other forest 
+produce which is obtained under a forest lease.”  
+(v) Ease of doing business  
+1.",,,,,,Ease,forest; forest lease; obtained; forest produce,TCS(ORG); 1(CARDINAL)
+"Extension of time limit u/s 80 -IAC for startups:  
+•",,,,,,Extension,80; startups; extension; time limit,80(CARDINAL)
+"It is proposed to extend the benefit provided under Section 80-IAC 
+to startups for another period of five years, i.e. the benefit will be 
+available to eligible start -ups incorporated before 01.04.2030.","rs,",",",,,,Section,benefit; ups; 01; incorporated,Section 80-IAC(LAW); five years(DATE); 01.04.2030(DATE)
+"Parity in  rates of long term capital gain on transfer of securities by non -
+resident:  
+•",,,,,,Parity,term capital; non resident; long term; long,
+"It is proposed to bring parity between the taxation of capital gains on 
+transfer of capital assets between residents and non -residents being 
+Foreign Institutional investors, on their income by way of long -term 
+capital gains on transfer of securities.","rs,",",",,,,Foreign Institutional,capital; residents; capital gains; gains,Foreign Institutional(ORG)
+"Simplification of tax provisions for charitable trusts/institutions:  
+•",,,,,,Simplification,charitable; trusts institutions; institutions; trusts,
+"It is proposed to increase the period of validity of registration of trust 
+or institution from 5 years to 10 years for smaller trusts or 
+institutions.",,,,,,,years; trusts institutions; trust institution; proposed increase,5 years to(DATE); 10 years(DATE)
+"It is proposed to rationalize the definition of specified violation for 
+cancellation of registration of trust or institution so as to not apply 
+the same for minor default such as in -complete applications.",,,,,,,trust institution; registration; rationalize; applications,
+"It is also proposed to rationalize the definition of persons making 
+substantial contribution to a trust or institution for denial of 
+exemption.",,,,,,,trust institution; rationalize; persons; making,
+"Rationalization in taxation of business trusts:  
+•",,,,,,Rationalization,trusts; rationalization; taxation; business,
+"It is proposed to provide that the total income of a business trust 
+which is charged to tax at the maximum marginal rate, shall be 
+subject to the provisions of section 112A of the Act as well, as it is 
+subject to provisions of section 111A and section 112 of the Act.",,,,,,Act,provisions section; subject; section; provisions,section 112A(LAW); section 111A and section 112(LAW)
+"Harmonization of Significant Economic Presence applicability with 
+business connection:   
+•",,,,,,Harmonization; Significant Economic Presence,significant; economic; business,Harmonization of Significant Economic Presence(ORG)
+"It is proposed to provide that significant economic presence of a non -
+resident in India shall not include the transactions or activities which 
+are confined to the purchase of goods in India for the purpose of 
+export.",,,,,,India,india; transactions; significant; include,India(GPE); India(GPE)
+"Bringing clarity in income on redemption of Unit Linked Insurance Policy:  
+•",,,,,,Bringing; Unit Linked Insurance Policy,linked; clarity; unit; insurance,Unit Linked Insurance(ORG)
+"It is proposed to clarify that the profit and gains from the redemption 
+of unit linked insurance policies to which exemption under section 
+10(10D) does not apply, shall be charged to tax as capital gains.",,,,,,,gains; exemption section; linked; section 10,10(10D(CARDINAL)
+"Amendment of definition of ‘capital asset’:  
+• In order to bring clarity on the chargeability of income arising out of 
+transfer of capital asset being securities held by an investment fund 
+as referred to in section 115UB of the Act, the definition of capital 
+asset is proposed to be amended.",,,,,,Amendment; Act,capital asset; asset; capital; definition capital,115UB of the Act(WORK_OF_ART)
+"Rationalization of transfer pricing provisions for carrying out multi -year 
+arm’s length price determination  
+•",,,,,,Rationalization,transfer pricing; price; pricing; rationalization,multi -year(DATE)
+"It is proposed to provide that the transfer pricing provisions for arm’s 
+length price determination in relation to similar transactions shall 
+now be applicable for a period of 3 years.",rs.,.,,,,,transfer pricing; pricing; price; transactions,3 years(DATE)
+"Exemption from prosecution for delayed payment of TCS:  
+• It is proposed to provide for exemption from prosecution to a person 
+who has failed to pay tax collected at source (TCS) to the credit of 
+the Central Government, if such payment is made at any time on or 
+before the time prescribed for filing the quarterly TCS statement.",,,,,,Exemption; Central Government,tcs; prosecution; payment; exemption,TCS(ORG); TCS(ORG); the Central Government(ORG); quarterly(DATE); TCS(ORG)
+10.,,,,,,,10,10(CARDINAL)
+"Amendment of definition of ‘capital asset’:  
+• In order to bring clarity on the chargeability of income arising out of 
+transfer of capital asset being securities held by an investment fund 
+as referred to in section 115UB of the Act, the definition of capital 
+asset is proposed to be amended.",,,,,,Amendment; Act,capital asset; asset; capital; definition capital,115UB of the Act(WORK_OF_ART)
+"(vi) Employment and Investment  
+1.",,,,,,Employment; Investment,employment investment; vi; employment; investment,1(CARDINAL)
+"Incentives to IFSC  
+•",,,,,,Incentives,incentives; ifsc,
+"It is proposed that the sunset dates related to IFSC units for 
+exemptions, deductions and relocation in various sections shall be 
+extended to 31st March, 2030.",,,,,,March,various; march 2030; 31st march; 2030,IFSC(ORG); 31st March(DATE); 2030(DATE)
+"It is proposed to exempt the proceeds received on life insurance 
+policy issued by IFSC insurance intermediary office without the 
+condition on maximum premium amount.",,,,,,,insurance; condition; exempt; received,IFSC(ORG)
+"It is proposed to extend the exemption in section 10(4H) to capital 
+gains for non -resident or a unit of IFSC on transfer of equity shares 
+of a ship leasing domestic company.",,,,,,,leasing; exemption section; ship leasing; extend exemption,section 10(4H(LAW); IFSC(ORG)
+"It is proposed to extend the exemption in section 10(34B) to dividend 
+paid by a ship leasing company in IFSC to a unit of IFSC engaged in 
+ship leasing.",,,,,,,ship leasing; leasing; ship; ifsc,IFSC(ORG); IFSC(ORG)
+"It is proposed that any advance or loan between two group entities, 
+where one of the group entities is set up in IFSC for undertaking 
+treasury activities or treasury services, shall be excluded from 
+dividend.",,,,,,,treasury; entities; loan; undertaking,two(CARDINAL); one(CARDINAL); IFSC(ORG); treasury(ORG)
+"It is proposed to provide a simplified safe harbor regime for 
+investment funds managed by fund manager based in IFSC.",,,,,,,based; proposed provide; regime; funds,IFSC(ORG)
+"It is 
+further proposed to extend the relaxation of conditions for IFSC units 
+till 31st March, 2030.",,,,,,March,march 2030; 31st march; conditions; 31st,IFSC(ORG); 31st March(DATE); 2030(DATE)
+"It is proposed to provide exemption to any income accruing or arising 
+to or received by a non -resident as a result of transfer of non -
+ 53  
+ 
+deliverable forward contracts entered into with any Foreign Portfolio 
+Investor, being a unit in an International Financial Services Centre, 
+which fulfills prescribed conditions.",,,,,,"Foreign Portfolio 
+Investor; International Financial Services Centre",non; result; arising; provide exemption,"non -
+ (NORP); International Financial Services Centre(ORG)"
+"It is proposed that transfer of a share or unit or interest held by a 
+shareholder in an original fund (being a retail scheme or exchange 
+traded fund regulated under IFSCA Regulations 2022) in 
+consideration for the share or unit or interest in a resultant f und in a 
+relocation, shall not be regarded as transfer for the purpose of 
+calculating capital gains.",,,,,,Regulations,unit; transfer; fund; calculating,
+"Extension of date of making investment by Sovereign Wealth Funds, 
+Pension Funds and others:  
+•",,,,,,Extension; Sovereign Wealth Funds; Pension Funds,funds; making; pension; extension,Sovereign Wealth Funds(ORG); Pension Funds(ORG)
+"It is proposed that in the case of person specified under section 
+10(23FE)",,,,,,,section 10; case; person; specified,
+"the date of making investment shall be extended from 31st 
+day of March, 2025 to 31st day of March, 2030.",,,,,,March,day march; 31st; day; march,"31st 
+day of March(DATE); 2025(DATE); 31st day of March(DATE); 2030(DATE)"
+"It is further proposed that in the case of such specified person 
+exemption shall be available to long -term capital gains under said 
+section, even if such capital gains are deemed as short -term capital 
+gains under section 50AA.",,,,,,,capital gains; gains; capital; term capital,
+"Scheme of presumptive taxation extended for non -resident providing 
+services for electronics manufacturing facility:  
+•",,,,,,Scheme,presumptive; presumptive taxation; non resident; electronics manufacturing,
+"It is proposed to provide a presumptive taxation regime for non -
+residents, engaged in the business of establishing or operating 
+electronics manufacturing facility or a connected facility for 
+manufacturing or production of electronic goods, article or thing  in 
+India.",,,,,,India,facility; manufacturing; engaged; presumptive,India(GPE)
+"Extension of Tonnage Tax Scheme to Inland vessels :  
+•",,,,,,Extension; Tonnage Tax Scheme; Inland,inland vessels; inland; vessels; tonnage,
+"It is proposed that the benefits of existing tonnage tax scheme to be 
+extended to inland vessels registered under the Indian Vessels Act, 
+2021 to promote Inland Water Transportation in the country.",,,,,,Indian Vessels Act; Inland Water Transportation,inland; vessels; inland vessels; registered,the Indian Vessels Act(LAW); 2021(DATE); Inland Water Transportation(ORG)
+"Deduction u/s 80CCD for contributions made to the NPS Vatsalya:  
+•",,,,,,Deduction; Vatsalya,nps; vatsalya; deduction,the NPS Vatsalya(ORG)
+"It is proposed to extend the tax benefits available to the National 
+Pension Scheme (NPS) under sub -section (1B) of section 80CCD of 
+the Income -tax Act, 1961 to the contributions made to the NPS 
+Vatsalya accounts, as applicable.",,,,,,"National 
+Pension Scheme; Income; Act; Vatsalya",nps; section; tax; tax act,"the National 
+Pension Scheme(ORG); NPS(ORG); 1B(CARDINAL); the Income -tax Act(LAW); 1961(DATE); NPS(ORG)"
+"54  
+ 
+(vii)",,,,,,,54; vii,54(CARDINAL)
+"Other miscellaneous amendments  
+ 
+1.",,,,,,Other,amendments,1(CARDINAL)
+"Exemption from withdrawals from National Savings Scheme (NSS):  
+•",,,,,,Exemption; National Savings Scheme,withdrawals; savings; exemption; national,National Savings Scheme(ORG); NSS(ORG)
+"It is proposed to provide exemption to the withdrawals made from 
+National Savings Scheme (NSS) on or after the 29th day of August, 
+2024, for any amount deposited under the scheme and the interest 
+accrued thereon in respect of which a deduction has been all owed.",,,,,,National Savings Scheme; August,scheme; withdrawals; provide exemption; august,National Savings Scheme(ORG); NSS(ORG); the 29th day of August(DATE); 2024(DATE)
+"2. Increase in the limits on the income of the employees for the purpose of    
+calculating perquisites:  
+•",,,,,,Increase,calculating; limits; purpose; increase,2(CARDINAL)
+"The provisions of Section 17 are proposed to be amended so that the 
+power to prescribe rules may be obtained to increase these limits.",,,,,,The; Section,prescribe; proposed amended; obtained; provisions section,Section 17(LAW)
+"Extension of exemption to Specified Undertaking of Unit Trust of India 
+(SUUTI)  
+•",,,,,,Extension; Specified Undertaking; Unit Trust; India,undertaking; extension; unit; trust,Specified Undertaking of Unit Trust(ORG)
+"It is proposed to extend the exemption of SUUTI created by the Unit 
+Trust of India (Transfer of Undertaking and Repeal) Act, 2002, to 31st 
+March, 2027.",,,,,,"Unit 
+Trust; India; Transfer; Undertaking; Repeal; Act; March",extend exemption; 31st march; undertaking; 31st,"SUUTI(ORG); the Unit 
+Trust of India (Transfer of Undertaking and Repeal) Act(ORG); 2002(DATE); 31st 
+March, 2027(DATE)"
+"Non applicability of Section 271AAB of the Act:  
+•",,,,,,Non; Section; Act,non; act; section,
+"It is proposed that provisions of the aforesaid section shall not be 
+applicable to a case where search has been initiated under  section 
+132 on or after the 1st day of September, 2024.",,,,,,September,section; section shall; case; day,"132(CARDINAL); the 1st day of September, 2024(DATE)"
+"Certain penalties to be imposed by the Assessing Officer:  
+•",,,,,,Certain; Assessing Officer,penalties; certain,
+"It is proposed to amend various sections related to penalty to 
+provide that penalties under these sections shall be levied by the 
+Assessing Officer, subject to the provisions of the Act relating to prior 
+approval of Joint Commissioner of Income -tax.",,,,,,Assessing Officer; Act; Joint Commissioner; Income,sections; various; proposed amend; penalties,Joint(ORG)
+"Removing date restrictions on framing the schemes in certain cases:  
+•",,,,,,Removing,certain cases; schemes; cases; certain,
+"It is proposed that the end date prescribed for notifying faceless 
+schemes under certain sections may be omitted so as to provide that 
+ 55  
+ 
+Central Government may issue directions beyond the cut -off date of 
+31st day of March, 2025.",,,,,,Central Government; March,date; day march; cut; certain sections,55(CARDINAL); Central Government(ORG); 31st day of March(DATE); 2025(DATE)
+"Extending the processing period of Application seeking immunity from 
+penalty and prosecution:  
+•",,,,,,Extending; Application,prosecution; application; processing; penalty,
+"It is proposed that Assessing Officer shall pass an order accepting or 
+rejecting the application requesting immunity from penalty and 
+prosecution, within a period of three month s from the end of the 
+month in which such application is received.",,,,,,Assessing Officer,application; month; prosecution; pass,Assessing(ORG); three month(DATE)
+"Increasing  time  limit  available  to pass  order  under  section  115VP:  
+•",,,,,,Increasing,pass order; pass; increasing; available,115VP(PRODUCT)
+"It is proposed  to amend  section  115VP  to provide  that the order,  
+accepting  or rejecting,  assessee’s  option  to opt for tonnage  tax 
+scheme  shall  be passed  before  the expiry  of three  months  from  the 
+end of the quarter  in which  such  application  was received.",,,,,,,application; proposed amend; end quarter; quarter,115VP(PRODUCT); three  months(DATE)
+"Excluding  the period  such  as court  stay  etc. for calculating  time  limit  to 
+pass  an order:  
+•",,,,,,Excluding,calculating; pass order; pass; court,
+"It is proposed  to exclude  certain  time  period  such  as period  of stay 
+on proceedings  by any court  order,  etc. from  the time  limit  to pass  
+an order  deeming  a person  to be an assessee  in default  with  respect  
+of failure  to collect  TCS.",,,,,,,order; period; time; collect,TCS(ORG)
+10.,,,,,,,10,10(CARDINAL)
+"Time limit to impose penalties rationalized:  
+•",,,,,,Time,penalties; rationalized; time limit; time,Time(ORG)
+"It is proposed that any order imposing a penalty shall not be passed 
+after the expiry of six months from the end of the quarter in which 
+the connected proceedings are completed, or the order of appeal is 
+received.",,,,,,,order; proceedings; completed; end quarter,the expiry of six months(DATE); the end of the quarter(DATE)
+"56  
+ 
+11.",,,,,,,11,56(CARDINAL)
+"Clarification regarding commencement date and the end date of the 
+period stayed by the Court:  
+•",,,,,,Clarification; Court,date; commencement; end date; court,the end date(DATE); Court(ORG)
+"It is proposed to amend the relevant sections of the Act to clarify the 
+commencement date and the end date of the period stayed by an 
+order or injunction of any court.",,,,,,Act,date; commencement; court; proposed amend,the end date(DATE)
+12.,,,,,,,12,12(CARDINAL)
+"Time limit for retention of seized books of account or other documents 
+rationalized:  
+•",,,,,,Time,account; rationalized; time limit; time,Time(ORG)
+"It is proposed make amendments to provide that  retention of seized 
+books of account or other documents shall be one month from the 
+end of the quarter in which the assessment or reassessment or 
+recomputation order has been made.",,,,,,,account; month; end quarter; quarter,one month(DATE)
+13.,,,,,,,13,13(CARDINAL)
+"Rationalisation  of provisions  related  to carry  forward  of losses  in case  
+of amalgamation   
+•",,,,,,Rationalisation,carry; forward; case; related,
+"It is proposed  to amend  section  72A and section  72AA  of the Act to 
+provide  that any loss forming  part of the accumulated  loss of the 
+predecessor  entity,  shall  be carried  forward  for not more  than  eight  
+assessment  years  immediately  succeeding  the assessment  year  for 
+which  such  loss was first computed  for original  predecessor  entity.",,,,,,Act,entity; assessment; section; proposed amend,72A(DATE); years(DATE); year(DATE); first(ORDINAL)
+14.,,,,,,,14,14(CARDINAL)
+"Amendments proposed in provisions of Block assessment for search 
+and requisition cases under Chapter XIV -B 
+•",,,,,,Amendments; Block; Chapter,chapter; block; cases; assessment,"Chapter XIV -B 
+(LAW)"
+"It is proposed to add the term “virtual digital asset” to the said 
+definition of undisclosed income of the block period.",,,,,,,block; digital; said; add,
+"The time -limit 
+for completion of block assessment is proposed to be made as 
+twelve months from end of the quarter in which the last of the 
+authorisations for search or requisition has been executed.",,,,,,The,end quarter; quarter; block; months end,twelve months(DATE); end of the quarter(DATE)
