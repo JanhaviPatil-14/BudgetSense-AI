@@ -1,220 +1,187 @@
-# 🤖 **BudgetSense-AI — AI/ML**
+# 🤖 BudgetSense-AI — AI-Powered Union Budget Analysis
 
-Turning India’s Union Budget Into Economic Intelligence
+**Turning India's Union Budget into Economic Intelligence**
 
----
+BudgetSense-AI is an end-to-end AI/ML project that analyzes India's Union Budget using Natural Language Processing, Sentiment Analysis, Numerical Forecasting, and Interactive Data Visualization.
 
-## 📌 **Project Mission**
-
-The Union Budget is one of India’s most critical financial statements, shaping national priorities, sectoral growth, and economic development. However, analyzing the vast mixture of numerical data, policy text, and sector information manually is extremely challenging.
-
-**BudgetSense-AI automates this analysis using AI & ML**, transforming raw budget documents into:
-
-* Structured policy insights
-* Sector-wise intelligence
-* Trend and theme detection
-* Predictive indicators
-* Easy-to-understand visuals
-
-This project applies AIML to make budget analysis **efficient, data-driven, and actionable** — bringing clarity to one of the most important documents of India’s economy.
+The system transforms complex budget documents and financial information into structured insights, helping users understand government priorities, sector-wise allocations, policy trends, and economic patterns.
 
 ---
 
-# 🔍 **Insight Highlights**
+## 📌 Project Overview
 
-## 🧠 **Text Analysis Module — *Completed***
+India's Union Budget contains extensive financial data, policy announcements, government schemes, and sectoral allocations. Manually analyzing this information can be time-consuming and complex.
 
-### 📄 Data Extraction & Preparation
+**BudgetSense-AI automates this analytical process using AI, ML, and NLP techniques.**
 
-✔ Extracted complete Union Budget 2024–25 speech from government PDFs
-✔ Cleaned and converted into structured paragraphs + 800+ sentences
-✔ Removed noise: URLs, symbols, punctuation, stopwords
-✔ Performed tokenization + lemmatization
+The project integrates four major modules:
 
-### 🏷️ Entity Recognition
-
-Detected key financial and policy components including:
-
-* Ministries (Finance, Education, Health, Agriculture, Defence)
-* Sectors (Agriculture, Digital, Green Energy, Social Welfare, Infrastructure)
-* Schemes & policy initiatives
-* Monetary allocations (standardized to ₹ crore)
-* Percentages (growth, allocation changes, fiscal statistics)
-
-### 🎯 Keyword & Theme Intelligence
-
-Using TF-IDF + LDA Topic Modeling, major themes identified include:
-
-* Infrastructure & CapEx
-* Tax reforms
-* Digital economy development
-* Green energy transition
-* Social welfare schemes
-
-### 📊 Categorization & Insights
-
-✔ Classified text into sectors, policies, investments
-✔ Extracted sector allocations & policy focus areas
-✔ Built structured datasets to support forecasting & dashboards
-
-This module forms **the core intelligence engine of BudgetSense-AI**, converting complex policy text into meaningful data.
+- NLP-Based Text Analysis
+- Sentiment Analysis
+- Numerical Forecasting
+- Interactive Dashboard and Visualization
 
 ---
 
-## 💬 **Sentiment Analysis Module — *Upcoming***
+## 🔍 Project Modules
 
- ### Purpose
+### 🧠 1. NLP-Based Text Analysis — Completed
 
-To analyze **public and media sentiment** toward Union Budget announcements.
+Analyzes the Union Budget 2024–25 speech and extracts meaningful information.
 
-### Planned Features
+**Data Extraction and Preprocessing**
+- Extracted budget speech content from government PDF documents.
+- Converted text into structured paragraphs and 800+ sentences.
+- Performed text cleaning, tokenization, stopword removal, and lemmatization.
 
-* Collect reactions from news articles, tweets, and financial commentary
-* Classify sentiment as **Positive / Negative / Neutral**
-* Map sentiment across sectors & key policies
-* Support decision-making via public feedback understanding
+**Named Entity Recognition**
+- Identified ministries and government departments.
+- Extracted sectors, schemes, and policy initiatives.
+- Identified monetary allocations and financial figures.
+- Recognized percentages and economic statistics.
 
-This module will bring a **behavioral perspective** to economic policy analysis.
+**Keyword Extraction and Topic Modeling**
+- TF-IDF for keyword extraction.
+- Latent Dirichlet Allocation (LDA) for topic modeling.
+- Identified major themes such as infrastructure, taxation, digital economy, green energy, and social welfare.
 
----
+### 💬 2. Sentiment Analysis — Completed
 
-## 🔮 **Numerical Forecasting Module — *Upcoming***
+Analyzes sentiment associated with budget-related information.
 
-### Purpose
+Key capabilities:
+- Sentiment classification into Positive, Negative, and Neutral categories.
+- Identification of sentiment patterns.
+- Analysis of reactions associated with economic sectors and policies.
+- Sentiment-based insights for understanding policy perception.
 
-Predict economic indicators and sectoral trends using historical budget data.
+### 🔮 3. Numerical Forecasting — Completed
 
-### Planned Features
+Uses numerical analysis and forecasting techniques to explore economic and budgetary trends.
 
-* Regression models
-* Time-series forecasting (ARIMA, Prophet)
-* Sector-wise budget prediction
-* Growth projections for key policy areas
+Key capabilities:
+- Analysis of historical numerical data.
+- Identification of budget allocation trends.
+- Forecasting of relevant financial indicators.
+- Sector-wise trend analysis.
+- Visualization of historical and forecasted values.
 
-### Expected Outcomes
+### 🌐 4. Interactive Dashboard and Visualization — Completed
 
-* Forecasted budget values for ministries
-* Trendlines for economic metrics
-* Data-driven expectations for future fiscal directions
+Provides an interactive interface for exploring the results generated by the analytical modules.
 
-This will add **predictive intelligence** to the system.
-
----
-
-## 🌐 **Web Deployment / Dashboard Module — *Upcoming***
-
-### Purpose
-
-Provide an **interactive dashboard** for users to explore:
-
-* Sector allocations
-* Policy themes
-* Sentiment heatmaps
-* Forecasting charts
-
-### Tools
-
-Flask / Streamlit • Matplotlib • WordCloud • Plotly
-
-This module will make insights accessible to **policymakers, analysts, and students** in one place.
+Key capabilities:
+- Sector-wise budget analysis.
+- Policy and topic insights.
+- Sentiment analysis visualization.
+- Numerical forecasting charts.
+- Interactive graphical representation of economic information.
 
 ---
 
-# 🛠️ **Tech Stack & Skills Demonstrated**
+## 🛠️ Technology Stack
 
-| Area                 | Applied Skills                                                |
-| -------------------- | ------------------------------------------------------------- |
-| **Data Handling**    | PDF Parsing, Text Cleaning, Preprocessing                     |
-| **NLP**              | Tokenization, NER, Keyword Extraction, Topic Modeling         |
-| **Machine Learning** | Classification (upcoming), Time Series Forecasting (upcoming) |
-| **Visualization**    | Wordclouds, Plots, Dashboard (upcoming)                       |
-| **Deployment**       | Flask Web App (upcoming)                                      |
-| **Tools**            | Python, spaCy, NLTK, Pandas, scikit-learn                     |
-
-This project reflects a **complete AIML workflow**, from raw data to intelligent insights.
+| Category | Technologies |
+|---|---|
+| Programming | Python |
+| Data Processing | Pandas, NumPy |
+| NLP | NLTK, spaCy |
+| Machine Learning | Scikit-learn |
+| Text Analysis | TF-IDF, LDA |
+| Forecasting | Implemented forecasting algorithms |
+| Visualization | Matplotlib, WordCloud, Plotly |
+| Development | Jupyter Notebook |
+| Dashboard | Implemented web/dashboard framework |
 
 ---
 
-# 📂 **Repository Structure**
+## 📂 Repository Structure
 
-```
-📦 budgetsense-ai/
- ┣ 📄 Budget_Speech.pdf                     → Source budget document
- ┣ 📄 structured_budget_text.csv            → Cleaned dataset (NLP output)
- ┣ 🧠 NLPModule.ipynb                       → Completed text analysis module
- ┣ 💬 SentimentModule.ipynb                 → Upcoming
- ┣ 🔮 ForecastingModule.ipynb               → Upcoming
- ┣ 🌐 DashboardApp/                         → (Planned web deployment)
- ┣ 🖼 G46_phase_1.pptx                      → Main project PPT (Uploaded)
- ┣ 🖼 NLPModule1.pptx                       → NLP explanation PPT
- ┣ 📂 visualizations/                       → TF-IDF, topic, keyword visuals
- ┣ 📄 README.md                             → Documentation
- ┗ 📄 requirements.txt                      → Dependencies
+```text
+BudgetSense-AI/
+│
+├── data/
+│   ├── Budget_Speech.pdf
+│   └── structured_budget_text.csv
+│
+├── notebooks/
+│   ├── NLPModule.ipynb
+│   ├── SentimentModule.ipynb
+│   └── ForecastingModule.ipynb
+│
+├── DashboardApp/
+│
+├── visualizations/
+│
+├── G46_phase_1.pptx
+├── NLPModule1.pptx
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
----
-
-# 🚀 **How to Explore the Project**
-
-### 1️⃣ View the Project PPT (Strongly Recommended)
-
-The PPT provides a complete walk-through of:
-✔ Introduction
-✔ Objectives
-✔ Literature survey
-✔ Methodology
-✔ Block diagram
-✔ Work plan
-✔ Progress completed
-✔ Expected outcomes
-✔ References
-
-📄 *Files:*
-
-* **G46_phase_1.pptx**   
-* **NLPModule1.pptx**
-
-### 2️⃣ Run the NLP Module
-
-Explore extraction, preprocessing, NER, keywords, topics.
-
-### 3️⃣ Examine structured CSV outputs
-
-See the cleaned economic dataset generated from text.
-
-### 4️⃣ Track upcoming modules
-
-Sentiment → Forecasting → Dashboard → Deployment.
+*Adjust the folder and file names to match the actual uploaded repository.*
 
 ---
 
-# 🎯 **Key Outcomes (from PPT)**
+## 🚀 Installation and Execution
 
-✔ Automated extraction and analysis of budget text
-✔ Theme, sector, and keyword intelligence
-✔ NER-based policy & allocation detection
-✔ Foundation for sentiment analysis
-✔ Framework for forecasting future economic trends
-✔ Blueprint for an interactive analytics dashboard
+### 1. Clone the Repository
 
-Expected final deliverables:
+```bash
+git clone https://github.com/JanhaviPatil-14/BudgetSense-AI.git
+```
 
-* Full AI-powered budget analysis system
-* Sentiment engine
-* Forecasting engine
-* Interactive dashboard
-* Extendable framework for multi-year economic research
+### 2. Navigate to the Project
+
+```bash
+cd BudgetSense-AI
+```
+
+### 3. Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+Activate on Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+### 4. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Run the Project
+
+Open the relevant notebooks to explore the NLP, sentiment analysis, and forecasting modules.
+
+Launch the dashboard using the actual application entry-point and framework included in the repository.
 
 ---
 
-# 👤 **Author**
+## 📊 Key Project Outcomes
+
+- Automated Union Budget document analysis.
+- Extraction of financial and policy-related entities.
+- Identification of important keywords and economic themes.
+- Sentiment classification and analysis.
+- Numerical forecasting and trend identification.
+- Interactive visualization of analytical results.
+- Integration of multiple AI/ML techniques into one analytical system.
+
+---
+
+## 👩‍💻 Author
 
 **Janhavi Patil**
-AI/ML • Data Science • Economic Analytics
 
----
+AI/ML | Natural Language Processing | Data Analytics | Machine Learning
+All four major modules have been completed, integrating text analysis, sentiment analysis, numerical forecasting, and interactive visualization into a unified budget analysis solution.
 
-# 🚧 Project Status
-
-**Work in Progress — More modules will be added soon.**
-
+⭐ If you find this project interesting, consider giving the repository a star!
