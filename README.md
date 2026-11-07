@@ -182,6 +182,5 @@ Launch the dashboard using the actual application entry-point and framework incl
 **Janhavi Patil**
 
 AI/ML | Natural Language Processing | Data Analytics | Machine Learning
-All four major modules have been completed, integrating text analysis, sentiment analysis, numerical forecasting, and interactive visualization into a unified budget analysis solution.
 
 ⭐ If you find this project interesting, consider giving the repository a star!
