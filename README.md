@@ -178,9 +178,8 @@ Launch the dashboard using the actual application entry-point and framework incl
 ---
 
 ## 👩‍💻 Author
-
-**Janhavi Patil**
+Janhavi Patil
 
 AI/ML | Natural Language Processing | Data Analytics | Machine Learning
 
-⭐ If you find this project interesting, consider giving the repository a star!
+**Janhavi Patil**
